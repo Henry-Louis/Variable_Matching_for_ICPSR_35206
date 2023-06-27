@@ -1,0 +1,2 @@
+STATEICP,COUNTYICP,NAME,LEVEL,STATEFIP,FIPS,F,D,N1,N2,REGION1,REGION2
+State ICPSR code,County ICPSR code,Area_name,County=1 State=2 USA=3,State FIPS code,State/county FIPS code,Flag for item wtn270207d,Wholesale trade: merchant wholesalers (NAICS 42 part)-end-of-2007,Note 1 for item wtn270207d,Note 2 for item wtn270207d,U.S. Census Region (9),U.S. Census Region (5)

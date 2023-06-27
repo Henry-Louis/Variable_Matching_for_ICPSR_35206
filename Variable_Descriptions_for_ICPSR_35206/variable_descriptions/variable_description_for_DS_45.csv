@@ -1,0 +1,2 @@
+FILE,DC,STATE,COUNTY,NAME,STATEFIP,COUNTYFIP,FIPS,LEVEL
+ag2007_all_revised.dta,"National Agricultural Statistics Service, 2009.",State ICPSR code,County ICPSR code,Name of state/county,State FIPS code,County FIPS code,FIPS code,County=1 state=2 USA=3
