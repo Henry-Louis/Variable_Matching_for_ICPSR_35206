@@ -1,0 +1,1059 @@
+target_variable,data_set_num,top_1_matched_variable,top_2_matched_variable,top_3_matched_variable,top_4_matched_variable,top_5_matched_variable
+Total population,DS_1,STATE,COUNTY,NAME,FAVAL850,FAVAL860
+Total population,DS_2,TOTPOP,CROPO,FILE,MD,IA
+Total population,DS_3,FILE,MD,IA,STATE,COUNTY
+Total population,DS_4,SLHTOT,SLAVES,FILE,MD,IA
+Total population,DS_5,TOTPOP,FARMS,FILE,STATE,COUNTY
+Total population,DS_6,TOTPOP,FARMS,FARMS2,FILE,STATE
+Total population,DS_7,TOTPOP,SHEEP,CATTLE,FARMS,FARMS2
+Total population,DS_8,TOTPOP,FARMS,FARMS2,ACFARM,TFARMHOM
+Total population,DS_9,TOTPOP,TOTPOP00,TOTPOP2,TOTPOP3,FARMS
+Total population,DS_10,TOTPOP,VAR1,VAR18,VAR56,VAR63
+Total population,DS_11,TOTPOP,VAR1,VAR18,VAR56,VAR63
+Total population,DS_12,VAR1,VAR336,VAR351,VAR366,VAR381
+Total population,DS_13,VAR1,VAR1071,VAR25,VAR235,VAR1109
+Total population,DS_14,VAR1500,VAR1522,VAR1653,VAR1755,VAR1662
+Total population,DS_15,VAR1,VAR199,VAR239,VAR244,VAR238
+Total population,DS_16,VAR1,VAR3,VAR2,VAR1382,VAR1384
+Total population,DS_17,VAR2000,VAR2001,VAR2161,VAR2162,VAR2021
+Total population,DS_18,VAR1,VAR3,VAR2000,VAR2001,VAR2
+Total population,DS_19,VAR2500,VAR2502,VAR2501,VAR2589,VAR2568
+Total population,DS_20,TOTPOP40,VAR1,VAR61,VAR64,VAR32
+Total population,DS_21,TOTPOP,VAR43,VAR47,VAR42,VAR45
+Total population,DS_22,ITEM001,ITEM005,ITEM013,ITEM030,ITEM801
+Total population,DS_23,POVERTY,VAR275,VAR482,VAR489,FILE
+Total population,DS_24,VAR1,I,II,STATE,COUNTY
+Total population,DS_25,TOTPOP50,TOTPOP40,VAR45,VAR49,VAR44
+Total population,DS_26,ITEM001,ITEM005,ITEM013,ITEM030,ITEM801
+Total population,DS_27,TOTPOP60,TOTPOP50,VAR149,VAR50,VAR52
+Total population,DS_28,ITEM001,ITEM005,ITEM013,ITEM030,ITEM801
+Total population,DS_29,POVERTY,VAR275,VAR482,VAR489,FILE
+Total population,DS_30,TOTPOP60,TOTPOP50,VAR46,VAR105,VAR47
+Total population,DS_31,ITEM005,ITEM013,ITEM001,ITEM030,ITEM801
+Total population,DS_32,POVERTY,VAR275,VAR482,VAR489,FILE
+Total population,DS_33,ITEM01031,ITEM01032,ITEM01035,ITEM01036,ITEM01052
+Total population,DS_34,ITEM01031,ITEM01032,ITEM01035,ITEM01036,ITEM01052
+Total population,DS_35,ITEM005,ITEM013,ITEM001,ITEM030,ITEM801
+Total population,DS_36,ITEM01031,ITEM01032,ITEM01035,ITEM01036,ITEM01052
+Total population,DS_37,ITEM01031,ITEM01032,ITEM01035,ITEM01036,ITEM01052
+Total population,DS_38,ITEM005,ITEM013,ITEM001,ITEM030,ITEM801
+Total population,DS_39,ITEM01013,ITEM01014,ITEM05032,ITEM05033,ITEM05048
+Total population,DS_40,ITEM01013,ITEM01014,ITEM05032,ITEM05033,ITEM05048
+Total population,DS_41,ITEM01013,ITEM01014,ITEM05032,ITEM05033,ITEM05048
+Total population,DS_42,ITEM010013,ITEM010014,ITEM060044,ITEM060045,ITEM060060
+Total population,DS_43,ITEM01014,ITEM01015,ITEM06044,ITEM06045,ITEM06060
+Total population,DS_44,ITEM01014,ITEM01015,ITEM51001,ITEM01016,ITEM01017
+Total population,DS_45,FILE,DC,STATE,COUNTY,NAME
+Total population,DS_46,STATEICP,COUNTYICP,NAME,LEVEL,STATEFIP
+"Farms, number",DS_1,FAVAL850,FAVAL860,FAVAL870,FAVAL880,FAVAL890
+"Farms, number",DS_2,FILE,MD,IA,STATE,COUNTY
+"Farms, number",DS_3,FARMS,ACIMP,ACUNIMP,FARMVAL,FILE
+"Farms, number",DS_4,FARM39,FARM1019,FARM2049,FARM5099,FARM100
+"Farms, number",DS_5,FARMS,FARM02,FARM39,FARM1019,FARM2049
+"Farms, number",DS_6,FARMS,FARMOWN,FARMS2,ACRES,FARM02
+"Farms, number",DS_7,FARMS,FARMS2,ACIMP,ACUNIMP,FARM09
+"Farms, number",DS_8,FARMS,FARMOWN,FARMS2,FARM12,FARM39
+"Farms, number",DS_9,FARMS,FARMS00,FARMS2,IRRFARMS,IRRFARMS99
+"Farms, number",DS_10,VAR1,VAR315,VAR437,VAR438,VAR440
+"Farms, number",DS_11,VAR1,VAR359,VAR481,VAR482,VAR484
+"Farms, number",DS_12,VAR2,VAR14,VAR23,VAR32,VAR4
+"Farms, number",DS_13,VAR2,VAR3,VAR1109,VAR5,VAR40
+"Farms, number",DS_14,VAR1501,VAR1587,VAR2046,VAR1600,VAR2042
+"Farms, number",DS_15,VAR2,VAR3,VAR4,VAR200,VAR7
+"Farms, number",DS_16,VAR4,VAR493,VAR111,VAR112,VAR114
+"Farms, number",DS_17,VAR2161,VAR2162,VAR2164,VAR2165,VAR2235
+"Farms, number",DS_18,VAR4,VAR493,VAR2161,VAR2162,VAR2164
+"Farms, number",DS_19,VAR2607,VAR2505,VAR2506,VAR2675,VAR2503
+"Farms, number",DS_20,VAR746,VAR525,VAR527,VAR666,VAR54
+"Farms, number",DS_21,VAR1,VAR57,VAR99,VAR1546,VAR1547
+"Farms, number",DS_22,ITEM004,ITEM005,ITEM006,ITEM007,ITEM012
+"Farms, number",DS_23,VAR250,VAR295,VAR268,VAR482,VAR489
+"Farms, number",DS_24,VAR3,VAR22,VAR25,VAR26,VAR55
+"Farms, number",DS_25,VAR1,VAR186,VAR60,VAR98,VAR214
+"Farms, number",DS_26,ITEM004,ITEM005,ITEM006,ITEM007,ITEM012
+"Farms, number",DS_27,VAR1,VAR136,VAR67,VAR442,VAR465
+"Farms, number",DS_28,ITEM004,ITEM005,ITEM006,ITEM007,ITEM012
+"Farms, number",DS_29,VAR250,VAR295,VAR268,VAR482,VAR489
+"Farms, number",DS_30,VAR1,VAR60,VAR92,VAR316,VAR336
+"Farms, number",DS_31,ITEM705,ITEM708,ITEM734,ITEM735,ITEM748
+"Farms, number",DS_32,VAR250,VAR295,VAR268,VAR482,VAR489
+"Farms, number",DS_33,ITEM01001,ITEM02010,ITEM06012,ITEM06013,ITEM07126
+"Farms, number",DS_34,ITEM01001,ITEM02010,ITEM06012,ITEM06013,ITEM07126
+"Farms, number",DS_35,ITEM705,ITEM708,ITEM734,ITEM735,ITEM748
+"Farms, number",DS_36,ITEM01001,ITEM02010,ITEM06012,ITEM06013,ITEM07126
+"Farms, number",DS_37,ITEM01001,ITEM02010,ITEM06012,ITEM06013,ITEM07126
+"Farms, number",DS_38,ITEM705,ITEM708,ITEM734,ITEM735,ITEM748
+"Farms, number",DS_39,ITEM01001,ITEM05001,ITEM05066,ITEM07001,ITEM16187
+"Farms, number",DS_40,ITEM01001,ITEM05001,ITEM05066,ITEM07001,ITEM16187
+"Farms, number",DS_41,ITEM01001,ITEM05001,ITEM05066,ITEM07001,ITEM16187
+"Farms, number",DS_42,ITEM010001,ITEM060001,ITEM070001,ITEM080001,ITEM040004
+"Farms, number",DS_43,ITEM01001,ITEM06001,ITEM07001,ITEM08001,ITEM04004
+"Farms, number",DS_44,ITEM01001,ITEM09001,ITEM09002,ITEM10001,ITEM10002
+"Farms, number",DS_45,FILE,DC,STATE,COUNTY,NAME
+"Farms, number",DS_46,STATEICP,COUNTYICP,NAME,LEVEL,STATEFIP
+"Land in farms, acres",DS_1,FAVAL850,FAVAL860,FAVAL870,FAVAL880,FAVAL890
+"Land in farms, acres",DS_2,FILE,MD,IA,STATE,COUNTY
+"Land in farms, acres",DS_3,ACIMP,ACUNIMP,FARMS,FARMVAL,FILE
+"Land in farms, acres",DS_4,ACIMP,ACUNIMP,FARM39,FARM1019,FARM2049
+"Land in farms, acres",DS_5,FARM02,FARM39,FARM1019,FARM2049,FARM5099
+"Land in farms, acres",DS_6,ACRES,FARM02,FARM39,FARM1019,FARM2049
+"Land in farms, acres",DS_7,ACIMP,ACUNIMP,FARM09,FARM1019,FARM2049
+"Land in farms, acres",DS_8,FARM12,FARM39,FARM1019,FARM2049,FARM5099
+"Land in farms, acres",DS_9,FARMLAND,FARMLD00,FARMLAND2,FARM39,FARM1019
+"Land in farms, acres",DS_10,VAR320,VAR321,VAR443,VAR444,VAR323
+"Land in farms, acres",DS_11,VAR349,VAR350,VAR351,VAR352,VAR353
+"Land in farms, acres",DS_12,VAR38,VAR84,VAR96,VAR97,VAR98
+"Land in farms, acres",DS_13,VAR8,VAR96,VAR30,VAR31,VAR55
+"Land in farms, acres",DS_14,VAR2047,VAR2071,VAR1508,VAR1509,VAR2048
+"Land in farms, acres",DS_15,VAR17,VAR18,VAR39,VAR12,VAR13
+"Land in farms, acres",DS_16,VAR7,VAR20,VAR54,VAR36,VAR37
+"Land in farms, acres",DS_17,VAR2235,VAR2237,VAR2161,VAR2162,VAR2164
+"Land in farms, acres",DS_18,VAR7,VAR20,VAR54,VAR36,VAR37
+"Land in farms, acres",DS_19,VAR2512,VAR2513,VAR2705,VAR2706,VAR2679
+"Land in farms, acres",DS_20,VAR4,VAR566,VAR682,VAR684,VAR685
+"Land in farms, acres",DS_21,VAR8,VAR49,VAR59,VAR73,VAR114
+"Land in farms, acres",DS_22,ITEM004,ITEM016,ITEM021,ITEM029,ITEM020
+"Land in farms, acres",DS_23,VAR254,VAR270,VAR272,VAR288,VAR289
+"Land in farms, acres",DS_24,VAR4,VAR30,VAR31,VAR56,VAR5
+"Land in farms, acres",DS_25,VAR8,VAR51,VAR62,VAR99,VAR119
+"Land in farms, acres",DS_26,ITEM004,ITEM016,ITEM021,ITEM029,ITEM020
+"Land in farms, acres",DS_27,VAR5,VAR54,VAR69,VAR197,VAR248
+"Land in farms, acres",DS_28,ITEM004,ITEM016,ITEM021,ITEM029,ITEM020
+"Land in farms, acres",DS_29,VAR254,VAR270,VAR272,VAR288,VAR289
+"Land in farms, acres",DS_30,VAR4,VAR50,VAR62,VAR153,VAR199
+"Land in farms, acres",DS_31,ITEM004,ITEM016,ITEM020,ITEM021,ITEM029
+"Land in farms, acres",DS_32,VAR254,VAR270,VAR272,VAR288,VAR289
+"Land in farms, acres",DS_33,ITEM01002,ITEM02011,ITEM02005,ITEM02008,ITEM02002
+"Land in farms, acres",DS_34,ITEM01002,ITEM02011,ITEM02005,ITEM02008,ITEM02002
+"Land in farms, acres",DS_35,ITEM004,ITEM016,ITEM020,ITEM021,ITEM029
+"Land in farms, acres",DS_36,ITEM01002,ITEM02011,ITEM02005,ITEM02008,ITEM02002
+"Land in farms, acres",DS_37,ITEM01002,ITEM02011,ITEM02005,ITEM02008,ITEM02002
+"Land in farms, acres",DS_38,ITEM004,ITEM016,ITEM020,ITEM021,ITEM029
+"Land in farms, acres",DS_39,ITEM01002,ITEM05002,ITEM10002,ITEM07002,ITEM10001
+"Land in farms, acres",DS_40,ITEM01002,ITEM05002,ITEM10002,ITEM07002,ITEM10001
+"Land in farms, acres",DS_41,ITEM01002,ITEM05002,ITEM10002,ITEM07002,ITEM10001
+"Land in farms, acres",DS_42,ITEM010002,ITEM060002,ITEM110002,ITEM120002,ITEM080002
+"Land in farms, acres",DS_43,ITEM01002,ITEM06002,ITEM11002,ITEM12002,ITEM08002
+"Land in farms, acres",DS_44,ITEM01002,ITEM08003,ITEM08004,ITEM40003,ITEM40004
+"Land in farms, acres",DS_45,FILE,DC,STATE,COUNTY,NAME
+"Land in farms, acres",DS_46,STATEICP,COUNTYICP,NAME,LEVEL,STATEFIP
+"Average size of farm, acres",DS_1,STATE,COUNTY,NAME,FAVAL850,FAVAL860
+"Average size of farm, acres",DS_2,FILE,MD,IA,STATE,COUNTY
+"Average size of farm, acres",DS_3,ACIMP,ACUNIMP,FILE,MD,IA
+"Average size of farm, acres",DS_4,ACIMP,ACUNIMP,FARM39,FARM1019,FARM2049
+"Average size of farm, acres",DS_5,EQUIPVAL,ACIMP,ACWOODS,FARMVAL,FARMOUT
+"Average size of farm, acres",DS_6,FARMSIZE,ACRES,FARM02,FARM39,FARM1019
+"Average size of farm, acres",DS_7,FARMSIZE,FARMOWN,EQUIPVAL,LIVSTOCK,IRRAC
+"Average size of farm, acres",DS_8,FARMSIZE,FARMLAB,ACFARM,FARMBUI,FARMEQUI
+"Average size of farm, acres",DS_9,VALPFARM,LANDPFAR,AREAAC,FARMLAND,FARMLD00
+"Average size of farm, acres",DS_10,VAR325,VAR324,VAR326,VAR327,VAR17
+"Average size of farm, acres",DS_11,VAR369,VAR368,VAR370,VAR371,A
+"Average size of farm, acres",DS_12,VAR74,VAR131,VAR132,VAR175,VAR174
+"Average size of farm, acres",DS_13,VAR11,VAR256,VAR287,VAR318,VAR330
+"Average size of farm, acres",DS_14,VAR1510,VAR1512,VAR1514,VAR1556,VAR1561
+"Average size of farm, acres",DS_15,VAR11,VAR218,VAR20,VAR219,VAR220
+"Average size of farm, acres",DS_16,VAR8,VAR145,VAR146,VAR147,VAR148
+"Average size of farm, acres",DS_17,VAR2240,VAR2205,VAR2206,VAR2241,VAR2242
+"Average size of farm, acres",DS_18,VAR8,VAR145,VAR146,VAR147,VAR148
+"Average size of farm, acres",DS_19,VAR2514,VAR2516,VAR2518,VAR2625,VAR2626
+"Average size of farm, acres",DS_20,VAR7,VAR41,VAR73,VAR74,VAR60
+"Average size of farm, acres",DS_21,VAR9,VAR60,VAR1552,VAR1553,VAR4
+"Average size of farm, acres",DS_22,ITEM030,ITEM002,ITEM004,ITEM001,ITEM003
+"Average size of farm, acres",DS_23,VAR299,VAR281,VAR286,VAR415,VAR282
+"Average size of farm, acres",DS_24,VAR4,VAR5,VAR10,VAR13,VAR16
+"Average size of farm, acres",DS_25,VAR9,VAR63,VAR6,VAR7,VAR10
+"Average size of farm, acres",DS_26,ITEM030,ITEM002,ITEM004,ITEM001,ITEM003
+"Average size of farm, acres",DS_27,VAR6,VAR70,VAR249,VAR194,VAR200
+"Average size of farm, acres",DS_28,ITEM030,ITEM002,ITEM004,ITEM001,ITEM003
+"Average size of farm, acres",DS_29,VAR299,VAR281,VAR286,VAR415,VAR282
+"Average size of farm, acres",DS_30,VAR5,VAR63,VAR200,VAR150,VAR156
+"Average size of farm, acres",DS_31,ITEM030,ITEM239,ITEM757,ITEM004,ITEM002
+"Average size of farm, acres",DS_32,VAR299,VAR281,VAR286,VAR415,VAR282
+"Average size of farm, acres",DS_33,ITEM01003,ITEM01009,ITEM01010,ITEM01011,ITEM01012
+"Average size of farm, acres",DS_34,ITEM01003,ITEM13004,ITEM13032,ITEM01009,ITEM01010
+"Average size of farm, acres",DS_35,ITEM030,ITEM239,ITEM757,ITEM004,ITEM002
+"Average size of farm, acres",DS_36,ITEM01003,ITEM01009,ITEM01010,ITEM01011,ITEM01012
+"Average size of farm, acres",DS_37,ITEM01003,ITEM13004,ITEM13032,ITEM01009,ITEM01010
+"Average size of farm, acres",DS_38,ITEM030,ITEM239,ITEM757,ITEM004,ITEM002
+"Average size of farm, acres",DS_39,ITEM01003,ITEM05003,ITEM05009,ITEM05011,ITEM05013
+"Average size of farm, acres",DS_40,ITEM01003,ITEM05003,ITEM05009,ITEM05011,ITEM05013
+"Average size of farm, acres",DS_41,ITEM01003,ITEM05003,ITEM05009,ITEM05011,ITEM05013
+"Average size of farm, acres",DS_42,ITEM010003,ITEM060003,ITEM120003,ITEM060021,ITEM060023
+"Average size of farm, acres",DS_43,ITEM06003,ITEM12003,ITEM01003,ITEM01004,ITEM06021
+"Average size of farm, acres",DS_44,ITEM01003,ITEM08005,ITEM08006,ITEM01004,ITEM10047
+"Average size of farm, acres",DS_45,FILE,DC,STATE,COUNTY,NAME
+"Average size of farm, acres",DS_46,STATEICP,COUNTYICP,NAME,LEVEL,STATEFIP
+"Value of land & buildings, average per acre, $",DS_1,FAVAL850,FAVAL860,FAVAL870,FAVAL880,FAVAL890
+"Value of land & buildings, average per acre, $",DS_2,POULTVAL,NURSERYO,DAIRY,ORCHARD,HOMEMFG
+"Value of land & buildings, average per acre, $",DS_3,LIVSTOCK,AGOUT3,FARMVAL,EQUIPVAL,ORCHARD
+"Value of land & buildings, average per acre, $",DS_4,LIVSTOCK,AGOUT3,FARMVAL,EQUIPVAL,ORCHARD
+"Value of land & buildings, average per acre, $",DS_5,EQUIPVAL,ORCHARD,FOREST,HOMEMFG,SLAUGVAL
+"Value of land & buildings, average per acre, $",DS_6,FARMVAL,EQUIPVAL,LIVSTOCK,ORCHVAL,FORESTV
+"Value of land & buildings, average per acre, $",DS_7,IRRVALAC,GRAPEYLD,GRAPEVAL,WINEVAL,RAISINPR
+"Value of land & buildings, average per acre, $",DS_8,TOTVAL,FARMBUI,FARMVAL,BEESVAL,FARMEQUI
+"Value of land & buildings, average per acre, $",DS_9,LANDPACR,LANDPA00,AVFINALCOST,AVTOTALCOST10,AVTOTALCOST99
+"Value of land & buildings, average per acre, $",DS_10,VAR394,VAR396,VAR398,VAR400,VAR402
+"Value of land & buildings, average per acre, $",DS_11,VAR438,VAR440,VAR442,VAR444,VAR446
+"Value of land & buildings, average per acre, $",DS_12,VAR133,VAR176,VAR134,VAR132,VAR174
+"Value of land & buildings, average per acre, $",DS_13,VAR120,VAR121,VAR130,VAR142,VAR128
+"Value of land & buildings, average per acre, $",DS_14,VAR1557,VAR1556,VAR2116,VAR2118,VAR2120
+"Value of land & buildings, average per acre, $",DS_15,VAR21,VAR20,VAR19,VAR85,VAR86
+"Value of land & buildings, average per acre, $",DS_16,VAR71,VAR31,VAR67,VAR68,VAR72
+"Value of land & buildings, average per acre, $",DS_17,VAR2026,VAR2027,VAR2111,VAR2134,VAR2135
+"Value of land & buildings, average per acre, $",DS_18,VAR71,VAR31,VAR67,VAR68,VAR72
+"Value of land & buildings, average per acre, $",DS_19,VAR2606,VAR2605,VAR2610,VAR2614,VAR2609
+"Value of land & buildings, average per acre, $",DS_20,VAR42,VAR40,VAR39,VAR41,VAR587
+"Value of land & buildings, average per acre, $",DS_21,VAR11,VAR1556,VAR1557,VAR10,VAR62
+"Value of land & buildings, average per acre, $",DS_22,ITEM053,ITEM054,ITEM055,ITEM061,ITEM063
+"Value of land & buildings, average per acre, $",DS_23,VAR219,VAR223,VAR225,VAR232,VAR234
+"Value of land & buildings, average per acre, $",DS_24,VAR4,VAR29,VAR27,VAR30,VAR31
+"Value of land & buildings, average per acre, $",DS_25,VAR11,VAR10,VAR12,VAR423,VAR426
+"Value of land & buildings, average per acre, $",DS_26,ITEM053,ITEM054,ITEM055,ITEM061,ITEM063
+"Value of land & buildings, average per acre, $",DS_27,VAR8,VAR251,VAR7,VAR250,VAR9
+"Value of land & buildings, average per acre, $",DS_28,ITEM053,ITEM054,ITEM055,ITEM061,ITEM063
+"Value of land & buildings, average per acre, $",DS_29,VAR219,VAR223,VAR225,VAR232,VAR234
+"Value of land & buildings, average per acre, $",DS_30,VAR7,VAR202,VAR6,VAR201,VAR8
+"Value of land & buildings, average per acre, $",DS_31,ITEM053,ITEM054,ITEM051,ITEM055,ITEM061
+"Value of land & buildings, average per acre, $",DS_32,VAR219,VAR223,VAR225,VAR232,VAR234
+"Value of land & buildings, average per acre, $",DS_33,ITEM01008,ITEM01007,ITEM03013,ITEM06003,ITEM01006
+"Value of land & buildings, average per acre, $",DS_34,ITEM01008,ITEM01007,ITEM03013,ITEM06003,ITEM01006
+"Value of land & buildings, average per acre, $",DS_35,ITEM053,ITEM054,ITEM051,ITEM055,ITEM061
+"Value of land & buildings, average per acre, $",DS_36,ITEM01008,ITEM01007,ITEM03013,ITEM06003,ITEM01006
+"Value of land & buildings, average per acre, $",DS_37,ITEM01008,ITEM01007,ITEM03013,ITEM06003,ITEM01006
+"Value of land & buildings, average per acre, $",DS_38,ITEM053,ITEM054,ITEM051,ITEM055,ITEM061
+"Value of land & buildings, average per acre, $",DS_39,ITEM05005,ITEM01005,ITEM05004,ITEM16005,ITEM01004
+"Value of land & buildings, average per acre, $",DS_40,ITEM05005,ITEM01005,ITEM05004,ITEM16005,ITEM01004
+"Value of land & buildings, average per acre, $",DS_41,ITEM05005,ITEM01005,ITEM05004,ITEM16005,ITEM01004
+"Value of land & buildings, average per acre, $",DS_42,ITEM020003,ITEM060004,ITEM060005,ITEM060006,ITEM060007
+"Value of land & buildings, average per acre, $",DS_43,ITEM01006,ITEM06007,ITEM12120,ITEM01005,ITEM06006
+"Value of land & buildings, average per acre, $",DS_44,ITEM01006,ITEM08013,ITEM08014,ITEM08011,ITEM08012
+"Value of land & buildings, average per acre, $",DS_45,FILE,DC,STATE,COUNTY,NAME
+"Value of land & buildings, average per acre, $",DS_46,STATEICP,COUNTYICP,NAME,LEVEL,STATEFIP
+"Total value of livestock, $",DS_1,FAVAL850,FAVAL860,FAVAL870,FAVAL880,FAVAL890
+"Total value of livestock, $",DS_2,CROPO,POULTVAL,NURSERYO,TOTPOP,DAIRY
+"Total value of livestock, $",DS_3,LIVSTOCK,AGOUT3,FARMVAL,EQUIPVAL,ORCHARD
+"Total value of livestock, $",DS_4,LIVSTOCK,AGOUT3,FARMVAL,EQUIPVAL,ORCHARD
+"Total value of livestock, $",DS_5,LIVSTOCK,TOTPOP,EQUIPVAL,ORCHARD,FOREST
+"Total value of livestock, $",DS_6,LIVSTOCK,FARMVAL,EQUIPVAL,ORCHVAL,FORESTV
+"Total value of livestock, $",DS_7,LIVSTOCK,MGARDVAL,ORANGVAL,VINEYVAL,FARMVAL
+"Total value of livestock, $",DS_8,LIVSTOCK,TOTVAL,POULTVAL,SFRUIVAL,LIVSTVAL
+"Total value of livestock, $",DS_9,CROPVAL,TOTVAL,TOTVAL00,LIVSTOCK,LIVSTK00
+"Total value of livestock, $",DS_10,VAR79,VAR85,VAR138,VAR139,VAR142
+"Total value of livestock, $",DS_11,VAR22,VAR26,VAR79,VAR85,VAR138
+"Total value of livestock, $",DS_12,VAR198,VAR202,VAR206,VAR217,VAR130
+"Total value of livestock, $",DS_13,VAR120,VAR142,VAR157,VAR943,VAR914
+"Total value of livestock, $",DS_14,VAR1664,VAR1698,VAR1726,VAR1841,VAR1710
+"Total value of livestock, $",DS_15,VAR26,VAR27,VAR20,VAR21,VAR22
+"Total value of livestock, $",DS_16,VAR31,VAR737,VAR749,VAR755,VAR761
+"Total value of livestock, $",DS_17,VAR2046,VAR2234,VAR2021,VAR2050,VAR2054
+"Total value of livestock, $",DS_18,VAR2046,VAR2234,VAR2021,VAR2050,VAR2054
+"Total value of livestock, $",DS_19,VAR2568,VAR2542,VAR2545,VAR2546,VAR2564
+"Total value of livestock, $",DS_20,VAR456,VAR522,VAR52,VAR126,VAR297
+"Total value of livestock, $",DS_21,VAR298,VAR387,VAR385,VAR552,VAR947
+"Total value of livestock, $",DS_22,ITEM068,ITEM062,ITEM973,ITEM053,ITEM054
+"Total value of livestock, $",DS_23,VAR234,VAR235,VAR233,VAR243,VAR326
+"Total value of livestock, $",DS_24,VAR1,I,II,STATE,COUNTY
+"Total value of livestock, $",DS_25,VAR423,VAR426,VAR236,VAR429,VAR432
+"Total value of livestock, $",DS_26,ITEM068,ITEM062,ITEM973,ITEM053,ITEM054
+"Total value of livestock, $",DS_27,VAR784,VAR498,VAR491,VAR7,VAR8
+"Total value of livestock, $",DS_28,ITEM068,ITEM062,ITEM973,ITEM053,ITEM054
+"Total value of livestock, $",DS_29,VAR234,VAR235,VAR233,VAR243,VAR326
+"Total value of livestock, $",DS_30,VAR266,VAR380,VAR646,VAR655,VAR263
+"Total value of livestock, $",DS_31,ITEM068,ITEM062,ITEM973,A,ITEM053
+"Total value of livestock, $",DS_32,VAR234,VAR235,VAR233,VAR243,VAR326
+"Total value of livestock, $",DS_33,ITEM03020,ITEM03021,ITEM03040,ITEM03041,ITEM03052
+"Total value of livestock, $",DS_34,ITEM03020,ITEM03021,ITEM03040,ITEM03041,ITEM03052
+"Total value of livestock, $",DS_35,ITEM068,ITEM062,ITEM973,A,ITEM053
+"Total value of livestock, $",DS_36,ITEM03020,ITEM03021,ITEM03040,ITEM03041,ITEM03052
+"Total value of livestock, $",DS_37,ITEM03020,ITEM03021,ITEM03040,ITEM03041,ITEM03052
+"Total value of livestock, $",DS_38,ITEM068,ITEM062,ITEM973,A,ITEM053
+"Total value of livestock, $",DS_39,ITEM16046,ITEM16047,ITEM16058,ITEM16059,ITEM16012
+"Total value of livestock, $",DS_40,ITEM16046,ITEM16047,ITEM16058,ITEM16059,ITEM16012
+"Total value of livestock, $",DS_41,ITEM16046,ITEM16047,ITEM16058,ITEM16059,ITEM16012
+"Total value of livestock, $",DS_42,ITEM010031,ITEM020003,ITEM120119,ITEM120120,ITEM120123
+"Total value of livestock, $",DS_43,ITEM02003,ITEM12011,ITEM01032,ITEM03003,ITEM01007
+"Total value of livestock, $",DS_44,ITEM02010,ITEM03027,ITEM03028,ITEM03029,ITEM03030
+"Total value of livestock, $",DS_45,FILE,DC,STATE,COUNTY,NAME
+"Total value of livestock, $",DS_46,STATEICP,COUNTYICP,NAME,LEVEL,STATEFIP
+"Value of all farm products sold, $",DS_1,FAVAL850,FAVAL860,FAVAL870,FAVAL880,FAVAL890
+"Value of all farm products sold, $",DS_2,DAIRY,ORCHARD,NURSVAL,ORCHMKTO,DAIRYMFO
+"Value of all farm products sold, $",DS_3,ORCHARD,GARDEN,LIVSTOCK,AGOUT3,FARMVAL
+"Value of all farm products sold, $",DS_4,ORCHARD,GARDEN,LIVSTOCK,AGOUT3,FARMVAL
+"Value of all farm products sold, $",DS_5,FARMOUT,LIVSTOCK,EQUIPVAL,ORCHARD,FOREST
+"Value of all farm products sold, $",DS_6,FARMOUT,GARDVAL,EQUIPVAL,LIVSTOCK,ORCHVAL
+"Value of all farm products sold, $",DS_7,FARMOUT,EQUIPVAL,LIVSTOCK,FLAXVAL,COSEEDVA
+"Value of all farm products sold, $",DS_8,ORCHVAL,DAIRYCON,DAIRYVAL,FARMBUI,FARMEQUI
+"Value of all farm products sold, $",DS_9,CROPVAL,OTCROPVA,FARMBUI,FARBUI00,FARMEQUI
+"Value of all farm products sold, $",DS_10,VAR138,VAR144,VAR139,VAR142,VAR114
+"Value of all farm products sold, $",DS_11,VAR114,VAR24,VAR25,VAR26,VAR138
+"Value of all farm products sold, $",DS_12,VAR186,VAR126,VAR492,VAR131,VAR135
+"Value of all farm products sold, $",DS_13,VAR996,VAR998,VAR1123,VAR936,VAR950
+"Value of all farm products sold, $",DS_14,VAR1631,VAR1632,VAR1627,VAR1629,VAR1633
+"Value of all farm products sold, $",DS_15,VAR363,VAR362,VAR20,VAR344,VAR26
+"Value of all farm products sold, $",DS_16,VAR1566,VAR1567,VAR72,VAR84,VAR31
+"Value of all farm products sold, $",DS_17,VAR2241,VAR2242,VAR2239,VAR2160,VAR2205
+"Value of all farm products sold, $",DS_18,VAR2241,VAR2242,VAR2239,VAR2160,VAR2205
+"Value of all farm products sold, $",DS_19,VAR2601,VAR2609,VAR2613,VAR2605,VAR2617
+"Value of all farm products sold, $",DS_20,VAR532,VAR529,VAR127,VAR513,VAR530
+"Value of all farm products sold, $",DS_21,VAR1743,VAR1678,VAR1679,VAR443,VAR1676
+"Value of all farm products sold, $",DS_22,ITEM051,ITEM061,ITEM063,ITEM064,ITEM060
+"Value of all farm products sold, $",DS_23,VAR290,VAR232,VAR242,VAR292,VAR235
+"Value of all farm products sold, $",DS_24,VAR3,VAR4,VAR5,VAR9,VAR10
+"Value of all farm products sold, $",DS_25,VAR230,VAR236,VAR502,VAR237,VAR238
+"Value of all farm products sold, $",DS_26,ITEM051,ITEM061,ITEM063,ITEM064,ITEM060
+"Value of all farm products sold, $",DS_27,VAR492,VAR498,VAR491,VAR493,VAR499
+"Value of all farm products sold, $",DS_28,ITEM051,ITEM061,ITEM063,ITEM064,ITEM060
+"Value of all farm products sold, $",DS_29,VAR290,VAR232,VAR242,VAR292,VAR235
+"Value of all farm products sold, $",DS_30,VAR259,VAR260,VAR266,VAR374,VAR380
+"Value of all farm products sold, $",DS_31,ITEM051,ITEM061,ITEM063,ITEM064,ITEM060
+"Value of all farm products sold, $",DS_32,VAR290,VAR232,VAR242,VAR292,VAR235
+"Value of all farm products sold, $",DS_33,ITEM03013,ITEM03033,ITEM03012,ITEM03022,ITEM03023
+"Value of all farm products sold, $",DS_34,ITEM03013,ITEM03033,ITEM03012,ITEM03022,ITEM03023
+"Value of all farm products sold, $",DS_35,ITEM051,ITEM061,ITEM063,ITEM064,ITEM060
+"Value of all farm products sold, $",DS_36,ITEM03013,ITEM03033,ITEM03012,ITEM03022,ITEM03023
+"Value of all farm products sold, $",DS_37,ITEM03013,ITEM03033,ITEM03012,ITEM03022,ITEM03023
+"Value of all farm products sold, $",DS_38,ITEM051,ITEM061,ITEM063,ITEM064,ITEM060
+"Value of all farm products sold, $",DS_39,ITEM01020,ITEM16013,ITEM11055,ITEM11056,ITEM16004
+"Value of all farm products sold, $",DS_40,ITEM01020,ITEM16013,ITEM11055,ITEM11056,ITEM16004
+"Value of all farm products sold, $",DS_41,ITEM01020,ITEM16013,ITEM11055,ITEM11056,ITEM16004
+"Value of all farm products sold, $",DS_42,ITEM010020,ITEM090004,ITEM090005,ITEM090006,ITEM090007
+"Value of all farm products sold, $",DS_43,ITEM01021,ITEM02003,ITEM01007,ITEM12123,ITEM01020
+"Value of all farm products sold, $",DS_44,ITEM01021,ITEM01020,ITEM01023,ITEM22027,ITEM22028
+"Value of all farm products sold, $",DS_45,FILE,DC,STATE,COUNTY,NAME
+"Value of all farm products sold, $",DS_46,STATEICP,COUNTYICP,NAME,LEVEL,STATEFIP
+"Cropland harvested, acres",DS_1,STATE,COUNTY,NAME,FAVAL850,FAVAL860
+"Cropland harvested, acres",DS_2,FILE,MD,IA,STATE,COUNTY
+"Cropland harvested, acres",DS_3,ACIMP,ACUNIMP,FILE,MD,IA
+"Cropland harvested, acres",DS_4,ACIMP,ACUNIMP,FARM39,FARM1019,FARM2049
+"Cropland harvested, acres",DS_5,ACIMP,ACWOODS,FARM02,FARM39,FARM1019
+"Cropland harvested, acres",DS_6,ACRES,FARM02,FARM39,FARM1019,FARM2049
+"Cropland harvested, acres",DS_7,IRRAC,FARMSIZE,ACIMP,ACUNIMP,AREA
+"Cropland harvested, acres",DS_8,ACFARM,IRRAC,FARMSIZE,FARM12,FARM39
+"Cropland harvested, acres",DS_9,AREAAC,FARMLAND,FARMLD00,AREAAC2,FARMLAND2
+"Cropland harvested, acres",DS_10,VAR17,VAR18,VAR250,VAR253,VAR256
+"Cropland harvested, acres",DS_11,VAR315,VAR316,VAR318,VAR320,VAR322
+"Cropland harvested, acres",DS_12,VAR53,VAR58,VAR59,VAR60,VAR61
+"Cropland harvested, acres",DS_13,VAR237,VAR309,VAR502,VAR13,VAR108
+"Cropland harvested, acres",DS_14,VAR1654,VAR1798,VAR1840,VAR2049,VAR1708
+"Cropland harvested, acres",DS_15,VAR29,VAR178,VAR43,VAR44,VAR75
+"Cropland harvested, acres",DS_16,VAR61,VAR26,VAR59,VAR60,VAR62
+"Cropland harvested, acres",DS_17,VAR2112,VAR2113,VAR2114,VAR2121,VAR2129
+"Cropland harvested, acres",DS_18,VAR61,VAR26,VAR59,VAR60,VAR62
+"Cropland harvested, acres",DS_19,VAR2521,VAR2674,VAR2673,VAR2672,VAR2520
+"Cropland harvested, acres",DS_20,VAR9,VAR578,VAR699,VAR584,VAR580
+"Cropland harvested, acres",DS_21,VAR15,VAR162,VAR168,VAR172,VAR66
+"Cropland harvested, acres",DS_22,ITEM006,ITEM023,ITEM005,ITEM007,ITEM012
+"Cropland harvested, acres",DS_23,VAR260,VAR274,VAR264,VAR13,VAR27
+"Cropland harvested, acres",DS_24,VAR5,VAR32,VAR10,VAR13,VAR16
+"Cropland harvested, acres",DS_25,VAR14,VAR100,VAR133,VAR137,VAR1275
+"Cropland harvested, acres",DS_26,ITEM006,ITEM023,ITEM005,ITEM007,ITEM012
+"Cropland harvested, acres",DS_27,VAR11,VAR165,VAR167,VAR169,VAR171
+"Cropland harvested, acres",DS_28,ITEM006,ITEM023,ITEM005,ITEM007,ITEM012
+"Cropland harvested, acres",DS_29,VAR260,VAR274,VAR264,VAR13,VAR27
+"Cropland harvested, acres",DS_30,VAR10,VAR121,VAR123,VAR125,VAR127
+"Cropland harvested, acres",DS_31,ITEM006,ITEM023,ITEM005,ITEM007,ITEM008
+"Cropland harvested, acres",DS_32,VAR260,VAR274,VAR264,VAR13,VAR27
+"Cropland harvested, acres",DS_33,ITEM01038,ITEM02012,ITEM02006,ITEM02009,ITEM02003
+"Cropland harvested, acres",DS_34,ITEM01038,ITEM02012,ITEM02006,ITEM02009,ITEM02003
+"Cropland harvested, acres",DS_35,ITEM006,ITEM023,ITEM005,ITEM007,ITEM008
+"Cropland harvested, acres",DS_36,ITEM01038,ITEM02012,ITEM02006,ITEM02009,ITEM02003
+"Cropland harvested, acres",DS_37,ITEM01038,ITEM02012,ITEM02006,ITEM02009,ITEM02003
+"Cropland harvested, acres",DS_38,ITEM006,ITEM023,ITEM005,ITEM007,ITEM008
+"Cropland harvested, acres",DS_39,ITEM01016,ITEM05035,ITEM10004,ITEM15002,ITEM07004
+"Cropland harvested, acres",DS_40,ITEM01016,ITEM05035,ITEM10004,ITEM15002,ITEM07004
+"Cropland harvested, acres",DS_41,ITEM01016,ITEM05035,ITEM10004,ITEM15002,ITEM07004
+"Cropland harvested, acres",DS_42,ITEM010016,ITEM060047,ITEM080004,ITEM080011,ITEM110004
+"Cropland harvested, acres",DS_43,ITEM13002,ITEM01017,ITEM06047,ITEM11018,ITEM12007
+"Cropland harvested, acres",DS_44,ITEM23003,ITEM01017,ITEM23007,ITEM10021,ITEM10022
+"Cropland harvested, acres",DS_45,FILE,DC,STATE,COUNTY,NAME
+"Cropland harvested, acres",DS_46,STATEICP,COUNTYICP,NAME,LEVEL,STATEFIP
+"Managers, all land in farms, acres",DS_1,FAVAL850,FAVAL860,FAVAL870,FAVAL880,FAVAL890
+"Managers, all land in farms, acres",DS_2,FILE,MD,IA,STATE,COUNTY
+"Managers, all land in farms, acres",DS_3,ACIMP,ACUNIMP,FARMS,FARMVAL,FILE
+"Managers, all land in farms, acres",DS_4,ACIMP,ACUNIMP,FARM39,FARM1019,FARM2049
+"Managers, all land in farms, acres",DS_5,FARM02,FARM39,FARM1019,FARM2049,FARM5099
+"Managers, all land in farms, acres",DS_6,ACRES,FARM02,FARM39,FARM1019,FARM2049
+"Managers, all land in farms, acres",DS_7,ACIMP,ACUNIMP,FARM09,FARM1019,FARM2049
+"Managers, all land in farms, acres",DS_8,FARM12,FARM39,FARM1019,FARM2049,FARM5099
+"Managers, all land in farms, acres",DS_9,ACRESMAN,ACIMPMAN,FAVALMAN,FARMLAND,FARMLD00
+"Managers, all land in farms, acres",DS_10,VAR320,VAR443,VAR37,VAR38,VAR321
+"Managers, all land in farms, acres",DS_11,VAR364,VAR487,VAR37,VAR38,VAR349
+"Managers, all land in farms, acres",DS_12,VAR43,VAR44,VAR38,VAR45,VAR46
+"Managers, all land in farms, acres",DS_13,VAR30,VAR60,VAR61,VAR8,VAR96
+"Managers, all land in farms, acres",DS_14,VAR2047,VAR1508,VAR2071,VAR1511,VAR1509
+"Managers, all land in farms, acres",DS_15,VAR17,VAR65,VAR70,VAR18,VAR39
+"Managers, all land in farms, acres",DS_16,VAR7,VAR53,VAR20,VAR54,VAR36
+"Managers, all land in farms, acres",DS_17,VAR2235,VAR2237,VAR2161,VAR2162,VAR2164
+"Managers, all land in farms, acres",DS_18,VAR7,VAR53,VAR20,VAR54,VAR36
+"Managers, all land in farms, acres",DS_19,VAR2512,VAR2513,VAR2705,VAR2706,VAR2601
+"Managers, all land in farms, acres",DS_20,VAR571,VAR621,VAR627,VAR566,VAR682
+"Managers, all land in farms, acres",DS_21,VAR150,VAR114,VAR151,VAR160,VAR8
+"Managers, all land in farms, acres",DS_22,ITEM020,ITEM004,ITEM016,ITEM021,ITEM029
+"Managers, all land in farms, acres",DS_23,VAR254,VAR270,VAR272,VAR288,VAR289
+"Managers, all land in farms, acres",DS_24,VAR4,VAR5,VAR10,VAR13,VAR16
+"Managers, all land in farms, acres",DS_25,VAR99,VAR119,VAR120,VAR8,VAR153
+"Managers, all land in farms, acres",DS_26,ITEM020,ITEM004,ITEM016,ITEM021,ITEM029
+"Managers, all land in farms, acres",DS_27,VAR197,VAR198,VAR224,VAR229,VAR5
+"Managers, all land in farms, acres",DS_28,ITEM020,ITEM004,ITEM016,ITEM021,ITEM029
+"Managers, all land in farms, acres",DS_29,VAR254,VAR270,VAR272,VAR288,VAR289
+"Managers, all land in farms, acres",DS_30,VAR153,VAR154,VAR4,VAR150,VAR177
+"Managers, all land in farms, acres",DS_31,ITEM004,ITEM016,ITEM020,ITEM021,ITEM029
+"Managers, all land in farms, acres",DS_32,VAR254,VAR270,VAR272,VAR288,VAR289
+"Managers, all land in farms, acres",DS_33,ITEM01002,ITEM02002,ITEM02011,ITEM02005,ITEM02008
+"Managers, all land in farms, acres",DS_34,ITEM01002,ITEM02002,ITEM02011,ITEM02005,ITEM02008
+"Managers, all land in farms, acres",DS_35,ITEM004,ITEM016,ITEM020,ITEM021,ITEM029
+"Managers, all land in farms, acres",DS_36,ITEM01002,ITEM02002,ITEM02011,ITEM02005,ITEM02008
+"Managers, all land in farms, acres",DS_37,ITEM01002,ITEM02002,ITEM02011,ITEM02005,ITEM02008
+"Managers, all land in farms, acres",DS_38,ITEM004,ITEM016,ITEM020,ITEM021,ITEM029
+"Managers, all land in farms, acres",DS_39,ITEM01002,ITEM05002,ITEM10002,ITEM07002,ITEM16002
+"Managers, all land in farms, acres",DS_40,ITEM01002,ITEM05002,ITEM10002,ITEM07002,ITEM16002
+"Managers, all land in farms, acres",DS_41,ITEM01002,ITEM05002,ITEM10002,ITEM07002,ITEM16002
+"Managers, all land in farms, acres",DS_42,ITEM010002,ITEM060002,ITEM110002,ITEM120002,ITEM080002
+"Managers, all land in farms, acres",DS_43,ITEM01002,ITEM06002,ITEM11002,ITEM12002,ITEM08002
+"Managers, all land in farms, acres",DS_44,ITEM01002,ITEM08003,ITEM08004,ITEM40003,ITEM40004
+"Managers, all land in farms, acres",DS_45,FILE,DC,STATE,COUNTY,NAME
+"Managers, all land in farms, acres",DS_46,STATEICP,COUNTYICP,NAME,LEVEL,STATEFIP
+"Farms with electricity, farms reporting",DS_1,FAVAL850,FAVAL860,FAVAL870,FAVAL880,FAVAL890
+"Farms with electricity, farms reporting",DS_2,FILE,MD,IA,STATE,COUNTY
+"Farms with electricity, farms reporting",DS_3,FARMS,ACIMP,ACUNIMP,FARMVAL,FILE
+"Farms with electricity, farms reporting",DS_4,ACIMP,ACUNIMP,FARMVAL,FARM39,FARM1019
+"Farms with electricity, farms reporting",DS_5,FARMS,FARM02,FARM39,FARM1019,FARM2049
+"Farms with electricity, farms reporting",DS_6,FARMS,FARMOWN,FARMS2,ACRES,FARM02
+"Farms with electricity, farms reporting",DS_7,FARM09,FARM1019,FARM2049,FARM5099,FARM100
+"Farms with electricity, farms reporting",DS_8,FARREPAN,FARDAIRY,LIVSTVAL,FARMS,FARMOWN
+"Farms with electricity, farms reporting",DS_9,FARELIVS,FRELABOR,FREFERT,FREFEED,LIVSTK2
+"Farms with electricity, farms reporting",DS_10,VAR54,VAR307,VAR311,VAR313,VAR300
+"Farms with electricity, farms reporting",DS_11,VAR54,VAR307,VAR311,VAR313,VAR300
+"Farms with electricity, farms reporting",DS_12,VAR189,VAR191,VAR402,VAR403,VAR404
+"Farms with electricity, farms reporting",DS_13,VAR258,VAR266,VAR289,VAR320,VAR332
+"Farms with electricity, farms reporting",DS_14,VAR2042,VAR2043,VAR1501,VAR1502,VAR1505
+"Farms with electricity, farms reporting",DS_15,VAR157,VAR190,VAR317,VAR321,VAR324
+"Farms with electricity, farms reporting",DS_16,VAR11,VAR17,VAR364,VAR367,VAR382
+"Farms with electricity, farms reporting",DS_17,VAR2181,VAR2183,VAR2185,VAR2193,VAR2197
+"Farms with electricity, farms reporting",DS_18,VAR11,VAR17,VAR364,VAR367,VAR382
+"Farms with electricity, farms reporting",DS_19,VAR2611,VAR2673,VAR2607,VAR2615,VAR2619
+"Farms with electricity, farms reporting",DS_20,VAR92,VAR93,VAR94,VAR91,VAR351
+"Farms with electricity, farms reporting",DS_21,VAR222,VAR221,VAR1584,VAR1585,VAR223
+"Farms with electricity, farms reporting",DS_22,ITEM004,ITEM005,ITEM006,ITEM007,ITEM012
+"Farms with electricity, farms reporting",DS_23,VAR268,VAR269,VAR271,VAR303,VAR427
+"Farms with electricity, farms reporting",DS_24,VAR9,VAR12,VAR15,VAR21,VAR6
+"Farms with electricity, farms reporting",DS_25,VAR259,VAR407,VAR737,VAR741,VAR896
+"Farms with electricity, farms reporting",DS_26,ITEM004,ITEM005,ITEM006,ITEM007,ITEM012
+"Farms with electricity, farms reporting",DS_27,VAR542,VAR543,VAR544,VAR291,VAR292
+"Farms with electricity, farms reporting",DS_28,ITEM004,ITEM005,ITEM006,ITEM007,ITEM012
+"Farms with electricity, farms reporting",DS_29,VAR268,VAR269,VAR271,VAR303,VAR427
+"Farms with electricity, farms reporting",DS_30,VAR866,VAR324,VAR831,VAR832,VAR833
+"Farms with electricity, farms reporting",DS_31,ITEM004,ITEM002,ITEM005,ITEM006,ITEM007
+"Farms with electricity, farms reporting",DS_32,VAR268,VAR269,VAR271,VAR303,VAR427
+"Farms with electricity, farms reporting",DS_33,ITEM07125,ITEM07128,ITEM07131,ITEM07134,ITEM07137
+"Farms with electricity, farms reporting",DS_34,ITEM07125,ITEM07128,ITEM07131,ITEM07134,ITEM07137
+"Farms with electricity, farms reporting",DS_35,ITEM004,ITEM002,ITEM005,ITEM006,ITEM007
+"Farms with electricity, farms reporting",DS_36,ITEM07125,ITEM07128,ITEM07131,ITEM07134,ITEM07137
+"Farms with electricity, farms reporting",DS_37,ITEM07125,ITEM07128,ITEM07131,ITEM07134,ITEM07137
+"Farms with electricity, farms reporting",DS_38,ITEM004,ITEM002,ITEM005,ITEM006,ITEM007
+"Farms with electricity, farms reporting",DS_39,ITEM16145,ITEM03026,ITEM16146,ITEM21001,ITEM21003
+"Farms with electricity, farms reporting",DS_40,ITEM16145,ITEM03026,ITEM16146,ITEM21001,ITEM21003
+"Farms with electricity, farms reporting",DS_41,ITEM16145,ITEM03026,ITEM16146,ITEM21001,ITEM21003
+"Farms with electricity, farms reporting",DS_42,ITEM030026,ITEM080001,ITEM370016,ITEM370020,ITEM040004
+"Farms with electricity, farms reporting",DS_43,ITEM03026,ITEM04004,ITEM04005,ITEM04007,ITEM04008
+"Farms with electricity, farms reporting",DS_44,ITEM21002,ITEM21004,ITEM21007,ITEM21009,ITEM21012
+"Farms with electricity, farms reporting",DS_45,FILE,DC,STATE,COUNTY,NAME
+"Farms with electricity, farms reporting",DS_46,STATEICP,COUNTYICP,NAME,LEVEL,STATEFIP
+"Average of last monthly electric bill, $",DS_1,STATE,COUNTY,NAME,FAVAL850,FAVAL860
+"Average of last monthly electric bill, $",DS_2,FILE,MD,IA,STATE,COUNTY
+"Average of last monthly electric bill, $",DS_3,FILE,MD,IA,STATE,COUNTY
+"Average of last monthly electric bill, $",DS_4,FILE,MD,IA,STATE,COUNTY
+"Average of last monthly electric bill, $",DS_5,FILE,STATE,COUNTY,NAME,TOTPOP
+"Average of last monthly electric bill, $",DS_6,FARMVAL,FARMSIZE,EQUIPVAL,LIVSTOCK,FARFENCE
+"Average of last monthly electric bill, $",DS_7,FARMSIZE,GRAPEYLD,IRRVALAC,ORANGEPR,FILE
+"Average of last monthly electric bill, $",DS_8,FARMFERT,FARMLAB,BALEWT,SCBALEWT,GINBALWT
+"Average of last monthly electric bill, $",DS_9,AVFINALCOST,AVTOTALCOST10,AVTOTALCOST99,AVIRRCOST10,AVIRRCOST99
+"Average of last monthly electric bill, $",DS_10,VAR394,VAR396,VAR398,VAR400,VAR402
+"Average of last monthly electric bill, $",DS_11,VAR438,VAR440,VAR442,VAR444,VAR446
+"Average of last monthly electric bill, $",DS_12,VAR177,VAR131,VAR132,VAR133,VAR175
+"Average of last monthly electric bill, $",DS_13,VAR1012,VAR914,VAR11,VAR123,VAR125
+"Average of last monthly electric bill, $",DS_14,VAR2116,VAR2118,VAR2120,VAR2122,VAR2124
+"Average of last monthly electric bill, $",DS_15,VAR20,VAR21,VAR11,VAR26,VAR27
+"Average of last monthly electric bill, $",DS_16,VAR418,VAR31,VAR468,VAR737,VAR749
+"Average of last monthly electric bill, $",DS_17,VAR2240,VAR2026,VAR2027,VAR2111,VAR2134
+"Average of last monthly electric bill, $",DS_18,VAR418,VAR2240,VAR31,VAR468,VAR737
+"Average of last monthly electric bill, $",DS_19,VAR2780,VAR2781,VAR2782,VAR2784,VAR2786
+"Average of last monthly electric bill, $",DS_20,VAR40,VAR42,VAR41,VAR530,VAR7
+"Average of last monthly electric bill, $",DS_21,VAR224,VAR1586,VAR1587,VAR10,VAR11
+"Average of last monthly electric bill, $",DS_22,ITEM848,ITEM053,ITEM054,ITEM055,ITEM061
+"Average of last monthly electric bill, $",DS_23,VAR428,VAR334,VAR417,VAR426,VAR299
+"Average of last monthly electric bill, $",DS_24,I,II,STATE,COUNTY,NAME
+"Average of last monthly electric bill, $",DS_25,VAR10,VAR11,VAR416,VAR233,VAR379
+"Average of last monthly electric bill, $",DS_26,ITEM848,ITEM053,ITEM054,ITEM055,ITEM061
+"Average of last monthly electric bill, $",DS_27,VAR835,VAR7,VAR8,VAR492,VAR250
+"Average of last monthly electric bill, $",DS_28,ITEM848,ITEM053,ITEM054,ITEM055,ITEM061
+"Average of last monthly electric bill, $",DS_29,VAR428,VAR334,VAR417,VAR426,VAR299
+"Average of last monthly electric bill, $",DS_30,VAR6,VAR7,VAR374,VAR201,VAR202
+"Average of last monthly electric bill, $",DS_31,ITEM848,ITEM053,ITEM054,ITEM051,ITEM055
+"Average of last monthly electric bill, $",DS_32,VAR428,VAR334,VAR417,VAR426,VAR299
+"Average of last monthly electric bill, $",DS_33,ITEM01007,ITEM01008,ITEM03013,ITEM06003,ITEM01003
+"Average of last monthly electric bill, $",DS_34,ITEM01007,ITEM01008,ITEM03013,ITEM06003,ITEM01003
+"Average of last monthly electric bill, $",DS_35,ITEM848,ITEM053,ITEM054,ITEM051,ITEM055
+"Average of last monthly electric bill, $",DS_36,ITEM01007,ITEM01008,ITEM03013,ITEM06003,ITEM01003
+"Average of last monthly electric bill, $",DS_37,ITEM01007,ITEM01008,ITEM03013,ITEM06003,ITEM01003
+"Average of last monthly electric bill, $",DS_38,ITEM848,ITEM053,ITEM054,ITEM051,ITEM055
+"Average of last monthly electric bill, $",DS_39,ITEM16013,ITEM01003,ITEM01034,ITEM05003,ITEM10048
+"Average of last monthly electric bill, $",DS_40,ITEM16013,ITEM01003,ITEM01034,ITEM05003,ITEM10048
+"Average of last monthly electric bill, $",DS_41,ITEM16013,ITEM01003,ITEM01034,ITEM05003,ITEM10048
+"Average of last monthly electric bill, $",DS_42,ITEM020003,ITEM010003,ITEM060003,ITEM120003,ITEM040012
+"Average of last monthly electric bill, $",DS_43,ITEM12011,ITEM01032,ITEM03003,ITEM12103,ITEM04006
+"Average of last monthly electric bill, $",DS_44,ITEM01003,ITEM08005,ITEM08006,ITEM40103,ITEM40104
+"Average of last monthly electric bill, $",DS_45,FILE,DC,STATE,COUNTY,NAME
+"Average of last monthly electric bill, $",DS_46,STATEICP,COUNTYICP,NAME,LEVEL,STATEFIP
+"Distance to trading center visited most frequently: average distance, miles",DS_1,STATE,COUNTY,NAME,FAVAL850,FAVAL860
+"Distance to trading center visited most frequently: average distance, miles",DS_2,FILE,MD,IA,STATE,COUNTY
+"Distance to trading center visited most frequently: average distance, miles",DS_3,FILE,MD,IA,STATE,COUNTY
+"Distance to trading center visited most frequently: average distance, miles",DS_4,FILE,MD,IA,STATE,COUNTY
+"Distance to trading center visited most frequently: average distance, miles",DS_5,FILE,STATE,COUNTY,NAME,TOTPOP
+"Distance to trading center visited most frequently: average distance, miles",DS_6,FARMSIZE,FILE,STATE,COUNTY,NAME
+"Distance to trading center visited most frequently: average distance, miles",DS_7,FARMSIZE,GRAPEYLD,IRRVALAC,ORANGEPR,FILE
+"Distance to trading center visited most frequently: average distance, miles",DS_8,FARMFERT,AREA,FARMLAB,IRRCANMI,BALEWT
+"Distance to trading center visited most frequently: average distance, miles",DS_9,LATERALSLENG,AREA,MDITCHLENG,MDITCHLENG99,VALPFARM
+"Distance to trading center visited most frequently: average distance, miles",DS_10,VAR53,VAR338,VAR344,VAR348,VAR466
+"Distance to trading center visited most frequently: average distance, miles",DS_11,VAR53,VAR382,VAR388,VAR392,VAR510
+"Distance to trading center visited most frequently: average distance, miles",DS_12,VAR74,VAR177,VAR238,VAR131,VAR132
+"Distance to trading center visited most frequently: average distance, miles",DS_13,VAR11,STATE,COUNTY,NAME,STATEFIP
+"Distance to trading center visited most frequently: average distance, miles",DS_14,VAR1510,VAR1512,VAR1514,VAR2076,VAR1530
+"Distance to trading center visited most frequently: average distance, miles",DS_15,VAR11,VAR20,VAR21,STATE,COUNTY
+"Distance to trading center visited most frequently: average distance, miles",DS_16,VAR130,VAR468,VAR8,VAR497,VAR498
+"Distance to trading center visited most frequently: average distance, miles",DS_17,VAR2240,DC,STATE,COUNTY,STATEFIP
+"Distance to trading center visited most frequently: average distance, miles",DS_18,VAR130,VAR468,VAR8,VAR497,VAR498
+"Distance to trading center visited most frequently: average distance, miles",DS_19,VAR2514,VAR2516,VAR2518,VAR2635,VAR2722
+"Distance to trading center visited most frequently: average distance, miles",DS_20,VAR99,VAR100,VAR101,VAR7,VAR75
+"Distance to trading center visited most frequently: average distance, miles",DS_21,VAR263,VAR260,VAR261,VAR262,VAR259
+"Distance to trading center visited most frequently: average distance, miles",DS_22,FILE,STATEICP,COUNICP,STATEFIP,COUNFIP
+"Distance to trading center visited most frequently: average distance, miles",DS_23,VAR299,FILE,STATE,COUNTY,STNAME
+"Distance to trading center visited most frequently: average distance, miles",DS_24,I,II,STATE,COUNTY,NAME
+"Distance to trading center visited most frequently: average distance, miles",DS_25,VAR416,VAR9,VAR63,VAR10,VAR11
+"Distance to trading center visited most frequently: average distance, miles",DS_26,FILE,STATEICP,COUNICP,STATEFIP,COUNFIP
+"Distance to trading center visited most frequently: average distance, miles",DS_27,VAR6,VAR450,VAR552,VAR70,VAR249
+"Distance to trading center visited most frequently: average distance, miles",DS_28,FILE,STATEICP,COUNICP,STATEFIP,COUNFIP
+"Distance to trading center visited most frequently: average distance, miles",DS_29,VAR299,FILE,STATE,COUNTY,STNAME
+"Distance to trading center visited most frequently: average distance, miles",DS_30,VAR531,VAR5,VAR323,VAR63,VAR200
+"Distance to trading center visited most frequently: average distance, miles",DS_31,FILE,STATEICP,COUNICP,STATEFIP,COUNFIP
+"Distance to trading center visited most frequently: average distance, miles",DS_32,VAR299,FILE,STATE,COUNTY,STNAME
+"Distance to trading center visited most frequently: average distance, miles",DS_33,ITEM01003,ITEM02041,ITEM01007,ITEM01008,ITEM03013
+"Distance to trading center visited most frequently: average distance, miles",DS_34,ITEM01003,ITEM02041,ITEM01007,ITEM01008,ITEM03013
+"Distance to trading center visited most frequently: average distance, miles",DS_35,FILE,STATEICP,COUNICP,STATEFIP,COUNFIP
+"Distance to trading center visited most frequently: average distance, miles",DS_36,ITEM01003,ITEM02041,ITEM01007,ITEM01008,ITEM03013
+"Distance to trading center visited most frequently: average distance, miles",DS_37,ITEM01003,ITEM02041,ITEM01007,ITEM01008,ITEM03013
+"Distance to trading center visited most frequently: average distance, miles",DS_38,FILE,STATEICP,COUNICP,STATEFIP,COUNFIP
+"Distance to trading center visited most frequently: average distance, miles",DS_39,ITEM01003,ITEM01034,ITEM05003,ITEM10048,ITEM16118
+"Distance to trading center visited most frequently: average distance, miles",DS_40,ITEM01003,ITEM01034,ITEM05003,ITEM10048,ITEM16118
+"Distance to trading center visited most frequently: average distance, miles",DS_41,ITEM01003,ITEM01034,ITEM05003,ITEM10048,ITEM16118
+"Distance to trading center visited most frequently: average distance, miles",DS_42,ITEM010003,ITEM060003,ITEM120003,ITEM020003,FILE
+"Distance to trading center visited most frequently: average distance, miles",DS_43,ITEM11046,ITEM12161,ITEM06003,ITEM12003,ITEM12011
+"Distance to trading center visited most frequently: average distance, miles",DS_44,ITEM01003,ITEM08005,ITEM08006,ITEM40103,ITEM40104
+"Distance to trading center visited most frequently: average distance, miles",DS_45,FILE,DC,STATE,COUNTY,NAME
+"Distance to trading center visited most frequently: average distance, miles",DS_46,STATEICP,COUNTYICP,NAME,LEVEL,STATEFIP
+"Distance over dirt or unimproved roads: average distance, miles",DS_1,STATE,COUNTY,NAME,FAVAL850,FAVAL860
+"Distance over dirt or unimproved roads: average distance, miles",DS_2,FILE,MD,IA,STATE,COUNTY
+"Distance over dirt or unimproved roads: average distance, miles",DS_3,ACUNIMP,FILE,MD,IA,STATE
+"Distance over dirt or unimproved roads: average distance, miles",DS_4,ACUNIMP,FILE,MD,IA,STATE
+"Distance over dirt or unimproved roads: average distance, miles",DS_5,ACWOODS,ACUNIOTH,FILE,STATE,COUNTY
+"Distance over dirt or unimproved roads: average distance, miles",DS_6,FARMSIZE,ACUNIMP,ACWOODS,ACUNIOTH,FILE
+"Distance over dirt or unimproved roads: average distance, miles",DS_7,FARMSIZE,ACUNIMP,CATTHALF,CATTCOM,GRAPEYLD
+"Distance over dirt or unimproved roads: average distance, miles",DS_8,BSTEER30,BBULLS,BHORSE20,BMULES20,BDCOWS
+"Distance over dirt or unimproved roads: average distance, miles",DS_9,LATERALSLENG,AREA,MDITCHLENG,MDITCHLENG99,OTUNIMP
+"Distance over dirt or unimproved roads: average distance, miles",DS_10,VAR53,VAR338,VAR344,VAR383,VAR21
+"Distance over dirt or unimproved roads: average distance, miles",DS_11,VAR53,VAR382,VAR388,VAR427,VAR21
+"Distance over dirt or unimproved roads: average distance, miles",DS_12,VAR196,VAR195,VAR192,VAR74,VAR456
+"Distance over dirt or unimproved roads: average distance, miles",DS_13,VAR1036,VAR11,VAR95,VAR321,VAR322
+"Distance over dirt or unimproved roads: average distance, miles",DS_14,VAR1650,VAR1649,VAR1510,VAR1512,VAR1514
+"Distance over dirt or unimproved roads: average distance, miles",DS_15,VAR11,VAR20,VAR21,VAR346,VAR33
+"Distance over dirt or unimproved roads: average distance, miles",DS_16,VAR608,VAR1615,VAR1616,VAR1617,VAR1629
+"Distance over dirt or unimproved roads: average distance, miles",DS_17,VAR2240,VAR2084,VAR2086,VAR2087,VAR2088
+"Distance over dirt or unimproved roads: average distance, miles",DS_18,VAR608,VAR1615,VAR1616,VAR1617,VAR2240
+"Distance over dirt or unimproved roads: average distance, miles",DS_19,VAR2507,VAR2526,VAR2535,VAR2547,VAR2555
+"Distance over dirt or unimproved roads: average distance, miles",DS_20,VAR101,VAR99,VAR100,VAR41,VAR530
+"Distance over dirt or unimproved roads: average distance, miles",DS_21,VAR268,VAR264,VAR265,VAR266,VAR267
+"Distance over dirt or unimproved roads: average distance, miles",DS_22,ITEM019,ITEM110,ITEM111,ITEM410,ITEM031
+"Distance over dirt or unimproved roads: average distance, miles",DS_23,VAR299,VAR300,VAR11,VAR12,VAR264
+"Distance over dirt or unimproved roads: average distance, miles",DS_24,I,II,STATE,COUNTY,NAME
+"Distance over dirt or unimproved roads: average distance, miles",DS_25,VAR416,VAR9,VAR386,VAR63,VAR385
+"Distance over dirt or unimproved roads: average distance, miles",DS_26,ITEM019,ITEM110,ITEM111,ITEM410,ITEM031
+"Distance over dirt or unimproved roads: average distance, miles",DS_27,VAR295,VAR547,VAR549,VAR551,VAR778
+"Distance over dirt or unimproved roads: average distance, miles",DS_28,ITEM019,ITEM110,ITEM111,ITEM410,ITEM031
+"Distance over dirt or unimproved roads: average distance, miles",DS_29,VAR299,VAR300,VAR11,VAR12,VAR264
+"Distance over dirt or unimproved roads: average distance, miles",DS_30,VAR417,VAR742,VAR531,VAR5,VAR323
+"Distance over dirt or unimproved roads: average distance, miles",DS_31,ITEM019,ITEM132,ITEM110,ITEM111,ITEM135
+"Distance over dirt or unimproved roads: average distance, miles",DS_32,VAR299,VAR300,VAR11,VAR12,VAR264
+"Distance over dirt or unimproved roads: average distance, miles",DS_33,ITEM01003,ITEM01066,ITEM01067,ITEM02041,ITEM02027
+"Distance over dirt or unimproved roads: average distance, miles",DS_34,ITEM01003,ITEM01066,ITEM01067,ITEM02041,ITEM02027
+"Distance over dirt or unimproved roads: average distance, miles",DS_35,ITEM019,ITEM132,ITEM110,ITEM111,ITEM135
+"Distance over dirt or unimproved roads: average distance, miles",DS_36,ITEM01003,ITEM01066,ITEM01067,ITEM02041,ITEM02027
+"Distance over dirt or unimproved roads: average distance, miles",DS_37,ITEM01003,ITEM01066,ITEM01067,ITEM02041,ITEM02027
+"Distance over dirt or unimproved roads: average distance, miles",DS_38,ITEM019,ITEM132,ITEM110,ITEM111,ITEM135
+"Distance over dirt or unimproved roads: average distance, miles",DS_39,ITEM01003,ITEM01034,ITEM05003,ITEM05036,ITEM05037
+"Distance over dirt or unimproved roads: average distance, miles",DS_40,ITEM01003,ITEM01034,ITEM05003,ITEM05036,ITEM05037
+"Distance over dirt or unimproved roads: average distance, miles",DS_41,ITEM01003,ITEM01034,ITEM05003,ITEM05036,ITEM05037
+"Distance over dirt or unimproved roads: average distance, miles",DS_42,ITEM010003,ITEM060003,ITEM060017,ITEM120003,ITEM130074
+"Distance over dirt or unimproved roads: average distance, miles",DS_43,ITEM01058,ITEM01059,ITEM01060,ITEM01064,ITEM01065
+"Distance over dirt or unimproved roads: average distance, miles",DS_44,ITEM23026,ITEM23028,ITEM23030,ITEM01003,ITEM01013
+"Distance over dirt or unimproved roads: average distance, miles",DS_45,FILE,DC,STATE,COUNTY,NAME
+"Distance over dirt or unimproved roads: average distance, miles",DS_46,STATEICP,COUNTYICP,NAME,LEVEL,STATEFIP
+"Farm labor: week preceding enumeration: family &/or hired workers, persons",DS_1,STATE,COUNTY,NAME,FAVAL850,FAVAL860
+"Farm labor: week preceding enumeration: family &/or hired workers, persons",DS_2,FILE,MD,IA,STATE,COUNTY
+"Farm labor: week preceding enumeration: family &/or hired workers, persons",DS_3,FILE,MD,IA,STATE,COUNTY
+"Farm labor: week preceding enumeration: family &/or hired workers, persons",DS_4,FILE,MD,IA,STATE,COUNTY
+"Farm labor: week preceding enumeration: family &/or hired workers, persons",DS_5,EQUIPVAL,FARMVAL,FARMOUT,LIVSTOCK,FILE
+"Farm labor: week preceding enumeration: family &/or hired workers, persons",DS_6,FARMSIZE,EQUIPVAL,LIVSTOCK,FARMOUT,FILE
+"Farm labor: week preceding enumeration: family &/or hired workers, persons",DS_7,FARMOWN,EQUIPVAL,LIVSTOCK,FARMRENT,FARMSIZE
+"Farm labor: week preceding enumeration: family &/or hired workers, persons",DS_8,FARMLAB,FARMBUI,FARMEQUI,LIVSTOCK,FARMSIZE
+"Farm labor: week preceding enumeration: family &/or hired workers, persons",DS_9,FARMBUI,FARBUI00,FARMEQUI,FARMEQ00,LIVSTOCK
+"Farm labor: week preceding enumeration: family &/or hired workers, persons",DS_10,VAR24,VAR25,VAR26,VAR308,VAR309
+"Farm labor: week preceding enumeration: family &/or hired workers, persons",DS_11,VAR24,VAR25,VAR26,VAR308,VAR309
+"Farm labor: week preceding enumeration: family &/or hired workers, persons",DS_12,VAR182,VAR183,VAR336,VAR341,VAR346
+"Farm labor: week preceding enumeration: family &/or hired workers, persons",DS_13,VAR1009,VAR1007,VAR1008,VAR1067,VAR1068
+"Farm labor: week preceding enumeration: family &/or hired workers, persons",DS_14,VAR1631,VAR1632,VAR1638,VAR1640,VAR1642
+"Farm labor: week preceding enumeration: family &/or hired workers, persons",DS_15,VAR259,VAR260,VAR261,VAR263,VAR262
+"Farm labor: week preceding enumeration: family &/or hired workers, persons",DS_16,VAR535,VAR536,VAR537,VAR538,VAR564
+"Farm labor: week preceding enumeration: family &/or hired workers, persons",DS_17,VAR2236,VAR2238,VAR2163,VAR2166,VAR2167
+"Farm labor: week preceding enumeration: family &/or hired workers, persons",DS_18,VAR535,VAR536,VAR537,VAR538,VAR564
+"Farm labor: week preceding enumeration: family &/or hired workers, persons",DS_19,VAR2671,VAR2507,VAR2526,VAR2535,VAR2547
+"Farm labor: week preceding enumeration: family &/or hired workers, persons",DS_20,VAR109,VAR112,VAR110,VAR108,VAR117
+"Farm labor: week preceding enumeration: family &/or hired workers, persons",DS_21,VAR273,VAR272,VAR279,VAR1600,VAR1601
+"Farm labor: week preceding enumeration: family &/or hired workers, persons",DS_22,ITEM030,ITEM110,ITEM111,ITEM410,ITEM031
+"Farm labor: week preceding enumeration: family &/or hired workers, persons",DS_23,VAR334,VAR303,VAR304,VAR333,VAR301
+"Farm labor: week preceding enumeration: family &/or hired workers, persons",DS_24,I,II,STATE,COUNTY,NAME
+"Farm labor: week preceding enumeration: family &/or hired workers, persons",DS_25,VAR293,VAR292,VAR301,VAR294,VAR300
+"Farm labor: week preceding enumeration: family &/or hired workers, persons",DS_26,ITEM030,ITEM110,ITEM111,ITEM410,ITEM031
+"Farm labor: week preceding enumeration: family &/or hired workers, persons",DS_27,VAR553,VAR296,VAR561,VAR700,VAR702
+"Farm labor: week preceding enumeration: family &/or hired workers, persons",DS_28,ITEM030,ITEM110,ITEM111,ITEM410,ITEM031
+"Farm labor: week preceding enumeration: family &/or hired workers, persons",DS_29,VAR334,VAR303,VAR304,VAR333,VAR301
+"Farm labor: week preceding enumeration: family &/or hired workers, persons",DS_30,VAR498,VAR499,VAR450,VAR451,VAR676
+"Farm labor: week preceding enumeration: family &/or hired workers, persons",DS_31,ITEM030,ITEM239,ITEM132,ITEM110,ITEM111
+"Farm labor: week preceding enumeration: family &/or hired workers, persons",DS_32,VAR334,VAR303,VAR304,VAR333,VAR301
+"Farm labor: week preceding enumeration: family &/or hired workers, persons",DS_33,ITEM05044,ITEM05045,ITEM02027,ITEM02028,ITEM05046
+"Farm labor: week preceding enumeration: family &/or hired workers, persons",DS_34,ITEM15001,ITEM15002,ITEM15017,ITEM15025,ITEM05044
+"Farm labor: week preceding enumeration: family &/or hired workers, persons",DS_35,ITEM030,ITEM239,ITEM132,ITEM110,ITEM111
+"Farm labor: week preceding enumeration: family &/or hired workers, persons",DS_36,ITEM05044,ITEM05045,ITEM02027,ITEM02028,ITEM05046
+"Farm labor: week preceding enumeration: family &/or hired workers, persons",DS_37,ITEM15001,ITEM15002,ITEM15017,ITEM15025,ITEM05044
+"Farm labor: week preceding enumeration: family &/or hired workers, persons",DS_38,ITEM030,ITEM239,ITEM132,ITEM110,ITEM111
+"Farm labor: week preceding enumeration: family &/or hired workers, persons",DS_39,ITEM03028,ITEM03029,ITEM16147,ITEM16148,ITEM03030
+"Farm labor: week preceding enumeration: family &/or hired workers, persons",DS_40,ITEM03028,ITEM03029,ITEM16147,ITEM16148,ITEM03030
+"Farm labor: week preceding enumeration: family &/or hired workers, persons",DS_41,ITEM03028,ITEM03029,ITEM16147,ITEM16148,ITEM03030
+"Farm labor: week preceding enumeration: family &/or hired workers, persons",DS_42,ITEM050002,ITEM030028,ITEM030029,ITEM050001,ITEM050003
+"Farm labor: week preceding enumeration: family &/or hired workers, persons",DS_43,ITEM05002,ITEM05008,ITEM05009,ITEM05012,ITEM05013
+"Farm labor: week preceding enumeration: family &/or hired workers, persons",DS_44,ITEM07002,ITEM07009,ITEM07013,ITEM07008,ITEM07012
+"Farm labor: week preceding enumeration: family &/or hired workers, persons",DS_45,FILE,DC,STATE,COUNTY,NAME
+"Farm labor: week preceding enumeration: family &/or hired workers, persons",DS_46,STATEICP,COUNTYICP,NAME,LEVEL,STATEFIP
+Specified farm expenditures: farms reporting,DS_1,FAVAL850,FAVAL860,FAVAL870,FAVAL880,FAVAL890
+Specified farm expenditures: farms reporting,DS_2,FILE,MD,IA,STATE,COUNTY
+Specified farm expenditures: farms reporting,DS_3,FARMS,ACIMP,ACUNIMP,FARMVAL,FILE
+Specified farm expenditures: farms reporting,DS_4,ACIMP,ACUNIMP,FARMVAL,FARM39,FARM1019
+Specified farm expenditures: farms reporting,DS_5,EQUIPVAL,FARMS,FARMVAL,FARMOUT,LIVSTOCK
+Specified farm expenditures: farms reporting,DS_6,FARMS,FARMOWN,FARMS2,ACRES,FARM02
+Specified farm expenditures: farms reporting,DS_7,FARMOWN,EQUIPVAL,LIVSTOCK,FARMRENT,FAOWN80
+Specified farm expenditures: farms reporting,DS_8,FARREPAN,FARMWHOW,FARMWHMA,FARMCOOW,FARMCOMA
+Specified farm expenditures: farms reporting,DS_9,FARELIVS,FRELABOR,FREFERT,FREFEED,LIVSTK2
+Specified farm expenditures: farms reporting,DS_10,VAR54,VAR307,VAR311,VAR313,VAR55
+Specified farm expenditures: farms reporting,DS_11,VAR54,VAR307,VAR311,VAR313,VAR55
+Specified farm expenditures: farms reporting,DS_12,VAR179,VAR181,VAR183,VAR185,VAR178
+Specified farm expenditures: farms reporting,DS_13,VAR1015,VAR1019,VAR1024,VAR1017,VAR1006
+Specified farm expenditures: farms reporting,DS_14,VAR2042,VAR2043,VAR1560,VAR1552,VAR1553
+Specified farm expenditures: farms reporting,DS_15,VAR238,VAR240,VAR242,VAR157,VAR190
+Specified farm expenditures: farms reporting,DS_16,VAR569,VAR573,VAR575,VAR17,VAR364
+Specified farm expenditures: farms reporting,DS_17,VAR2203,VAR2204,VAR2181,VAR2166,VAR2167
+Specified farm expenditures: farms reporting,DS_18,VAR569,VAR573,VAR575,VAR2203,VAR2204
+Specified farm expenditures: farms reporting,DS_19,VAR2611,VAR2673,VAR2607,VAR2615,VAR2619
+Specified farm expenditures: farms reporting,DS_20,VAR111,VAR116,VAR531,VAR114,VAR553
+Specified farm expenditures: farms reporting,DS_21,VAR280,VAR282,VAR284,VAR294,VAR1692
+Specified farm expenditures: farms reporting,DS_22,ITEM071,ITEM004,ITEM005,ITEM006,ITEM007
+Specified farm expenditures: farms reporting,DS_23,VAR427,VAR416,VAR425,VAR347,VAR421
+Specified farm expenditures: farms reporting,DS_24,VAR9,VAR12,VAR15,VAR21,VAR6
+Specified farm expenditures: farms reporting,DS_25,VAR306,VAR308,VAR310,VAR322,VAR318
+Specified farm expenditures: farms reporting,DS_26,ITEM071,ITEM004,ITEM005,ITEM006,ITEM007
+Specified farm expenditures: farms reporting,DS_27,VAR691,VAR696,VAR687,VAR689,VAR709
+Specified farm expenditures: farms reporting,DS_28,ITEM071,ITEM004,ITEM005,ITEM006,ITEM007
+Specified farm expenditures: farms reporting,DS_29,VAR427,VAR416,VAR425,VAR347,VAR421
+Specified farm expenditures: farms reporting,DS_30,VAR244,VAR243,VAR644,VAR666,VAR324
+Specified farm expenditures: farms reporting,DS_31,ITEM030,ITEM071,ITEM004,ITEM002,ITEM005
+Specified farm expenditures: farms reporting,DS_32,VAR427,VAR416,VAR425,VAR347,VAR421
+Specified farm expenditures: farms reporting,DS_33,ITEM05001,ITEM05032,ITEM02002,ITEM04008,ITEM05018
+Specified farm expenditures: farms reporting,DS_34,ITEM05001,ITEM05032,ITEM02002,ITEM04008,ITEM05018
+Specified farm expenditures: farms reporting,DS_35,ITEM030,ITEM071,ITEM004,ITEM002,ITEM005
+Specified farm expenditures: farms reporting,DS_36,ITEM05001,ITEM05032,ITEM02002,ITEM04008,ITEM05018
+Specified farm expenditures: farms reporting,DS_37,ITEM05001,ITEM05032,ITEM02002,ITEM04008,ITEM05018
+Specified farm expenditures: farms reporting,DS_38,ITEM030,ITEM071,ITEM004,ITEM002,ITEM005
+Specified farm expenditures: farms reporting,DS_39,ITEM03001,ITEM03026,ITEM21001,ITEM21003,ITEM21007
+Specified farm expenditures: farms reporting,DS_40,ITEM03001,ITEM03026,ITEM21001,ITEM21003,ITEM21007
+Specified farm expenditures: farms reporting,DS_41,ITEM03001,ITEM03026,ITEM21001,ITEM21003,ITEM21007
+Specified farm expenditures: farms reporting,DS_42,ITEM030028,ITEM050001,ITEM120076,ITEM030001,ITEM120058
+Specified farm expenditures: farms reporting,DS_43,ITEM03028,ITEM05001,ITEM03001,ITEM12058,ITEM12074
+Specified farm expenditures: farms reporting,DS_44,ITEM07001,ITEM07049,ITEM03001,ITEM03002,ITEM01003
+Specified farm expenditures: farms reporting,DS_45,FILE,DC,STATE,COUNTY,NAME
+Specified farm expenditures: farms reporting,DS_46,STATEICP,COUNTYICP,NAME,LEVEL,STATEFIP
+"Specified farm expenditures: machine hire, $",DS_1,STATE,COUNTY,NAME,FAVAL850,FAVAL860
+"Specified farm expenditures: machine hire, $",DS_2,FILE,MD,IA,STATE,COUNTY
+"Specified farm expenditures: machine hire, $",DS_3,FILE,MD,IA,STATE,COUNTY
+"Specified farm expenditures: machine hire, $",DS_4,FILE,MD,IA,STATE,COUNTY
+"Specified farm expenditures: machine hire, $",DS_5,EQUIPVAL,FARMVAL,FARMOUT,LIVSTOCK,FILE
+"Specified farm expenditures: machine hire, $",DS_6,EQUIPVAL,LIVSTOCK,FARMOUT,FARMVAL,FARMSIZE
+"Specified farm expenditures: machine hire, $",DS_7,FARMOWN,EQUIPVAL,LIVSTOCK,FARMRENT,FARMSIZE
+"Specified farm expenditures: machine hire, $",DS_8,FARMBUI,FARMEQUI,LIVSTOCK,FARMSIZE,TFARMHOM
+"Specified farm expenditures: machine hire, $",DS_9,FEEDEXP,FARMBUI,FARBUI00,FARMEQUI,FARMEQ00
+"Specified farm expenditures: machine hire, $",DS_10,VAR139,VAR142,VAR312,VAR314,VAR24
+"Specified farm expenditures: machine hire, $",DS_11,VAR24,VAR25,VAR26,VAR49,VAR439
+"Specified farm expenditures: machine hire, $",DS_12,VAR178,VAR180,VAR182,VAR184,VAR125
+"Specified farm expenditures: machine hire, $",DS_13,VAR1007,VAR1012,VAR1009,VAR1010,VAR1011
+"Specified farm expenditures: machine hire, $",DS_14,VAR1560,VAR1552,VAR1553,VAR1556,VAR1558
+"Specified farm expenditures: machine hire, $",DS_15,VAR20,VAR344,VAR26,VAR27,VAR21
+"Specified farm expenditures: machine hire, $",DS_16,VAR570,VAR574,VAR577,VAR568,VAR572
+"Specified farm expenditures: machine hire, $",DS_17,VAR2205,VAR2206,VAR2241,VAR2242,VAR2042
+"Specified farm expenditures: machine hire, $",DS_18,VAR570,VAR574,VAR577,VAR2205,VAR2206
+"Specified farm expenditures: machine hire, $",DS_19,VAR2609,VAR2613,VAR2605,VAR2617,VAR2514
+"Specified farm expenditures: machine hire, $",DS_20,VAR532,VAR126,VAR433,VAR554,VAR436
+"Specified farm expenditures: machine hire, $",DS_21,VAR283,VAR282,VAR285,VAR295,VAR1694
+"Specified farm expenditures: machine hire, $",DS_22,ITEM071,ITEM848,ITEM053,ITEM054,ITEM030
+"Specified farm expenditures: machine hire, $",DS_23,VAR332,VAR428,VAR334,VAR417,VAR426
+"Specified farm expenditures: machine hire, $",DS_24,I,II,STATE,COUNTY,NAME
+"Specified farm expenditures: machine hire, $",DS_25,VAR309,VAR308,VAR311,VAR323,VAR307
+"Specified farm expenditures: machine hire, $",DS_26,ITEM071,ITEM848,ITEM053,ITEM054,ITEM030
+"Specified farm expenditures: machine hire, $",DS_27,VAR692,VAR691,VAR693,VAR694,VAR695
+"Specified farm expenditures: machine hire, $",DS_28,ITEM071,ITEM848,ITEM053,ITEM054,ITEM030
+"Specified farm expenditures: machine hire, $",DS_29,VAR332,VAR428,VAR334,VAR417,VAR426
+"Specified farm expenditures: machine hire, $",DS_30,VAR244,VAR256,VAR667,VAR675,VAR255
+"Specified farm expenditures: machine hire, $",DS_31,ITEM071,ITEM848,ITEM030,ITEM053,ITEM054
+"Specified farm expenditures: machine hire, $",DS_32,VAR332,VAR428,VAR334,VAR417,VAR426
+"Specified farm expenditures: machine hire, $",DS_33,ITEM05048,ITEM05049,ITEM01007,ITEM03013,ITEM06003
+"Specified farm expenditures: machine hire, $",DS_34,ITEM05048,ITEM05049,ITEM01007,ITEM03013,ITEM06003
+"Specified farm expenditures: machine hire, $",DS_35,ITEM071,ITEM848,ITEM030,ITEM053,ITEM054
+"Specified farm expenditures: machine hire, $",DS_36,ITEM05048,ITEM05049,ITEM01007,ITEM03013,ITEM06003
+"Specified farm expenditures: machine hire, $",DS_37,ITEM05048,ITEM05049,ITEM01007,ITEM03013,ITEM06003
+"Specified farm expenditures: machine hire, $",DS_38,ITEM071,ITEM848,ITEM030,ITEM053,ITEM054
+"Specified farm expenditures: machine hire, $",DS_39,ITEM16013,ITEM16004,ITEM01006,ITEM01003,ITEM05003
+"Specified farm expenditures: machine hire, $",DS_40,ITEM16013,ITEM16004,ITEM01006,ITEM01003,ITEM05003
+"Specified farm expenditures: machine hire, $",DS_41,ITEM16013,ITEM16004,ITEM01006,ITEM01003,ITEM05003
+"Specified farm expenditures: machine hire, $",DS_42,ITEM030034,ITEM030035,ITEM010031,ITEM020003,ITEM030003
+"Specified farm expenditures: machine hire, $",DS_43,ITEM12011,ITEM01032,ITEM03003,ITEM12103,ITEM01007
+"Specified farm expenditures: machine hire, $",DS_44,ITEM07002,ITEM07001,ITEM07003,ITEM01035,ITEM03001
+"Specified farm expenditures: machine hire, $",DS_45,FILE,DC,STATE,COUNTY,NAME
+"Specified farm expenditures: machine hire, $",DS_46,STATEICP,COUNTYICP,NAME,LEVEL,STATEFIP
+"Specified farm expenditures: hired labor, $",DS_1,STATE,COUNTY,NAME,FAVAL850,FAVAL860
+"Specified farm expenditures: hired labor, $",DS_2,FILE,MD,IA,STATE,COUNTY
+"Specified farm expenditures: hired labor, $",DS_3,FILE,MD,IA,STATE,COUNTY
+"Specified farm expenditures: hired labor, $",DS_4,FILE,MD,IA,STATE,COUNTY
+"Specified farm expenditures: hired labor, $",DS_5,EQUIPVAL,FARMVAL,FARMOUT,LIVSTOCK,FILE
+"Specified farm expenditures: hired labor, $",DS_6,EQUIPVAL,LIVSTOCK,FARMOUT,FARMVAL,FARMSIZE
+"Specified farm expenditures: hired labor, $",DS_7,FARMOWN,EQUIPVAL,LIVSTOCK,FARMRENT,FARMSIZE
+"Specified farm expenditures: hired labor, $",DS_8,FARMLAB,FARMBUI,FARMEQUI,LIVSTOCK,FARMSIZE
+"Specified farm expenditures: hired labor, $",DS_9,FEEDEXP,FAWAGES,FAREBORD,FARMBUI,FARBUI00
+"Specified farm expenditures: hired labor, $",DS_10,VAR308,VAR309,VAR310,VAR139,VAR142
+"Specified farm expenditures: hired labor, $",DS_11,VAR24,VAR25,VAR26,VAR308,VAR309
+"Specified farm expenditures: hired labor, $",DS_12,VAR182,VAR178,VAR180,VAR184,VAR183
+"Specified farm expenditures: hired labor, $",DS_13,VAR1007,VAR1009,VAR1008,VAR1012,VAR1010
+"Specified farm expenditures: hired labor, $",DS_14,VAR1560,VAR1552,VAR1553,VAR1556,VAR1558
+"Specified farm expenditures: hired labor, $",DS_15,VAR20,VAR344,VAR26,VAR27,VAR21
+"Specified farm expenditures: hired labor, $",DS_16,VAR560,VAR566,VAR562,VAR570,VAR574
+"Specified farm expenditures: hired labor, $",DS_17,VAR2205,VAR2206,VAR2241,VAR2242,VAR2042
+"Specified farm expenditures: hired labor, $",DS_18,VAR560,VAR566,VAR562,VAR570,VAR574
+"Specified farm expenditures: hired labor, $",DS_19,VAR2609,VAR2613,VAR2605,VAR2617,VAR2514
+"Specified farm expenditures: hired labor, $",DS_20,VAR117,VAR116,VAR119,VAR109,VAR108
+"Specified farm expenditures: hired labor, $",DS_21,VAR285,VAR284,VAR283,VAR295,VAR1696
+"Specified farm expenditures: hired labor, $",DS_22,ITEM071,ITEM848,ITEM053,ITEM054,ITEM030
+"Specified farm expenditures: hired labor, $",DS_23,VAR334,VAR333,VAR428,VAR417,VAR426
+"Specified farm expenditures: hired labor, $",DS_24,I,II,STATE,COUNTY,NAME
+"Specified farm expenditures: hired labor, $",DS_25,VAR311,VAR310,VAR312,VAR313,VAR314
+"Specified farm expenditures: hired labor, $",DS_26,ITEM071,ITEM848,ITEM053,ITEM054,ITEM030
+"Specified farm expenditures: hired labor, $",DS_27,VAR697,VAR696,VAR698,VAR699,VAR701
+"Specified farm expenditures: hired labor, $",DS_28,ITEM071,ITEM848,ITEM053,ITEM054,ITEM030
+"Specified farm expenditures: hired labor, $",DS_29,VAR334,VAR333,VAR428,VAR417,VAR426
+"Specified farm expenditures: hired labor, $",DS_30,VAR677,VAR258,VAR244,VAR676,VAR257
+"Specified farm expenditures: hired labor, $",DS_31,ITEM071,ITEM848,ITEM030,ITEM053,ITEM054
+"Specified farm expenditures: hired labor, $",DS_32,VAR334,VAR333,VAR428,VAR417,VAR426
+"Specified farm expenditures: hired labor, $",DS_33,ITEM05044,ITEM05045,ITEM05046,ITEM05047,ITEM01007
+"Specified farm expenditures: hired labor, $",DS_34,ITEM05044,ITEM05045,ITEM05046,ITEM05047,ITEM15016
+"Specified farm expenditures: hired labor, $",DS_35,ITEM071,ITEM848,ITEM030,ITEM053,ITEM054
+"Specified farm expenditures: hired labor, $",DS_36,ITEM05044,ITEM05045,ITEM05046,ITEM05047,ITEM01007
+"Specified farm expenditures: hired labor, $",DS_37,ITEM05044,ITEM05045,ITEM05046,ITEM05047,ITEM15016
+"Specified farm expenditures: hired labor, $",DS_38,ITEM071,ITEM848,ITEM030,ITEM053,ITEM054
+"Specified farm expenditures: hired labor, $",DS_39,ITEM03028,ITEM03029,ITEM16147,ITEM16148,ITEM03030
+"Specified farm expenditures: hired labor, $",DS_40,ITEM03028,ITEM03029,ITEM16147,ITEM16148,ITEM03030
+"Specified farm expenditures: hired labor, $",DS_41,ITEM03028,ITEM03029,ITEM16147,ITEM16148,ITEM03030
+"Specified farm expenditures: hired labor, $",DS_42,ITEM030028,ITEM030029,ITEM050001,ITEM050002,ITEM050003
+"Specified farm expenditures: hired labor, $",DS_43,ITEM03028,ITEM03029,ITEM05001,ITEM05002,ITEM05003
+"Specified farm expenditures: hired labor, $",DS_44,ITEM07002,ITEM07001,ITEM07003,ITEM07007,ITEM03047
+"Specified farm expenditures: hired labor, $",DS_45,FILE,DC,STATE,COUNTY,NAME
+"Specified farm expenditures: hired labor, $",DS_46,STATEICP,COUNTYICP,NAME,LEVEL,STATEFIP
+"Specified farm expenditures: feed for livestock & poultry, $",DS_1,STATE,COUNTY,NAME,FAVAL850,FAVAL860
+"Specified farm expenditures: feed for livestock & poultry, $",DS_2,POULTVAL,FILE,MD,IA,STATE
+"Specified farm expenditures: feed for livestock & poultry, $",DS_3,LIVSTOCK,FILE,MD,IA,STATE
+"Specified farm expenditures: feed for livestock & poultry, $",DS_4,LIVSTOCK,FILE,MD,IA,STATE
+"Specified farm expenditures: feed for livestock & poultry, $",DS_5,LIVSTOCK,EQUIPVAL,FARMVAL,FARMOUT,FILE
+"Specified farm expenditures: feed for livestock & poultry, $",DS_6,LIVSTOCK,EQUIPVAL,FARMOUT,POULTRY,OTHPOUL
+"Specified farm expenditures: feed for livestock & poultry, $",DS_7,LIVSTOCK,FARMOWN,EQUIPVAL,FARMRENT,FARMSIZE
+"Specified farm expenditures: feed for livestock & poultry, $",DS_8,LIVSTOCK,TOTVAL,FARMOUT,FARMBUI,FARMEQUI
+"Specified farm expenditures: feed for livestock & poultry, $",DS_9,FEEDEXP,LIVSTOCK,LIVSTK00,POUPRVAL,POULTVAL
+"Specified farm expenditures: feed for livestock & poultry, $",DS_10,VAR314,VAR26,VAR104,VAR22,VAR139
+"Specified farm expenditures: feed for livestock & poultry, $",DS_11,VAR26,VAR22,VAR314,VAR24,VAR25
+"Specified farm expenditures: feed for livestock & poultry, $",DS_12,VAR178,VAR130,VAR179,VAR180,VAR182
+"Specified farm expenditures: feed for livestock & poultry, $",DS_13,VAR1007,VAR1012,VAR1001,VAR1002,VAR943
+"Specified farm expenditures: feed for livestock & poultry, $",DS_14,VAR1560,VAR1552,VAR1553,VAR1556,VAR1558
+"Specified farm expenditures: feed for livestock & poultry, $",DS_15,VAR20,VAR344,VAR26,VAR27,VAR21
+"Specified farm expenditures: feed for livestock & poultry, $",DS_16,VAR568,VAR567,VAR570,VAR574,VAR577
+"Specified farm expenditures: feed for livestock & poultry, $",DS_17,VAR2046,VAR2234,VAR2050,VAR2259,VAR2021
+"Specified farm expenditures: feed for livestock & poultry, $",DS_18,VAR568,VAR2046,VAR2234,VAR2050,VAR567
+"Specified farm expenditures: feed for livestock & poultry, $",DS_19,VAR2609,VAR2613,VAR2605,VAR2617,VAR2514
+"Specified farm expenditures: feed for livestock & poultry, $",DS_20,VAR524,VAR550,VAR523,VAR456,VAR548
+"Specified farm expenditures: feed for livestock & poultry, $",DS_21,VAR287,VAR289,VAR286,VAR288,VAR283
+"Specified farm expenditures: feed for livestock & poultry, $",DS_22,ITEM062,ITEM063,ITEM068,ITEM740,ITEM741
+"Specified farm expenditures: feed for livestock & poultry, $",DS_23,VAR326,VAR417,VAR426,VAR328,VAR424
+"Specified farm expenditures: feed for livestock & poultry, $",DS_24,I,II,STATE,COUNTY,NAME
+"Specified farm expenditures: feed for livestock & poultry, $",DS_25,VAR319,VAR318,VAR309,VAR311,VAR323
+"Specified farm expenditures: feed for livestock & poultry, $",DS_26,ITEM062,ITEM063,ITEM068,ITEM740,ITEM741
+"Specified farm expenditures: feed for livestock & poultry, $",DS_27,VAR688,VAR690,VAR687,VAR334,VAR689
+"Specified farm expenditures: feed for livestock & poultry, $",DS_28,ITEM062,ITEM063,ITEM068,ITEM740,ITEM741
+"Specified farm expenditures: feed for livestock & poultry, $",DS_29,VAR326,VAR417,VAR426,VAR328,VAR424
+"Specified farm expenditures: feed for livestock & poultry, $",DS_30,VAR646,VAR648,VAR246,VAR645,VAR655
+"Specified farm expenditures: feed for livestock & poultry, $",DS_31,ITEM062,ITEM063,ITEM068,ITEM740,ITEM741
+"Specified farm expenditures: feed for livestock & poultry, $",DS_32,VAR326,VAR417,VAR426,VAR328,VAR424
+"Specified farm expenditures: feed for livestock & poultry, $",DS_33,ITEM05014,ITEM05015,ITEM05012,ITEM05013,ITEM05024
+"Specified farm expenditures: feed for livestock & poultry, $",DS_34,ITEM05014,ITEM05015,ITEM05012,ITEM05013,ITEM05024
+"Specified farm expenditures: feed for livestock & poultry, $",DS_35,ITEM062,ITEM063,ITEM068,ITEM740,ITEM741
+"Specified farm expenditures: feed for livestock & poultry, $",DS_36,ITEM05014,ITEM05015,ITEM05012,ITEM05013,ITEM05024
+"Specified farm expenditures: feed for livestock & poultry, $",DS_37,ITEM05014,ITEM05015,ITEM05012,ITEM05013,ITEM05024
+"Specified farm expenditures: feed for livestock & poultry, $",DS_38,ITEM062,ITEM063,ITEM068,ITEM740,ITEM741
+"Specified farm expenditures: feed for livestock & poultry, $",DS_39,ITEM03006,ITEM03007,ITEM03004,ITEM03005,ITEM16131
+"Specified farm expenditures: feed for livestock & poultry, $",DS_40,ITEM03006,ITEM03007,ITEM03004,ITEM03005,ITEM16131
+"Specified farm expenditures: feed for livestock & poultry, $",DS_41,ITEM03006,ITEM03007,ITEM03004,ITEM03005,ITEM16131
+"Specified farm expenditures: feed for livestock & poultry, $",DS_42,ITEM030006,ITEM030007,ITEM120045,ITEM020060,ITEM020061
+"Specified farm expenditures: feed for livestock & poultry, $",DS_43,ITEM12062,ITEM12063,ITEM03006,ITEM03007,ITEM12060
+"Specified farm expenditures: feed for livestock & poultry, $",DS_44,ITEM03027,ITEM03028,ITEM03029,ITEM03030,ITEM03019
+"Specified farm expenditures: feed for livestock & poultry, $",DS_45,FILE,DC,STATE,COUNTY,NAME
+"Specified farm expenditures: feed for livestock & poultry, $",DS_46,STATEICP,COUNTYICP,NAME,LEVEL,STATEFIP
+"Specified farm expenditures: livestock & poultry purchased, $",DS_1,STATE,COUNTY,NAME,FAVAL850,FAVAL860
+"Specified farm expenditures: livestock & poultry purchased, $",DS_2,POULTVAL,FILE,MD,IA,STATE
+"Specified farm expenditures: livestock & poultry purchased, $",DS_3,LIVSTOCK,FILE,MD,IA,STATE
+"Specified farm expenditures: livestock & poultry purchased, $",DS_4,LIVSTOCK,FILE,MD,IA,STATE
+"Specified farm expenditures: livestock & poultry purchased, $",DS_5,LIVSTOCK,EQUIPVAL,FARMVAL,FARMOUT,FILE
+"Specified farm expenditures: livestock & poultry purchased, $",DS_6,LIVSTOCK,EQUIPVAL,FARMFERT,FARMOUT,POULTRY
+"Specified farm expenditures: livestock & poultry purchased, $",DS_7,LIVSTOCK,FARMOWN,EQUIPVAL,FARMFERT,FARMRENT
+"Specified farm expenditures: livestock & poultry purchased, $",DS_8,LIVSTOCK,TOTVAL,FARMOUT,FARMBUI,FARMEQUI
+"Specified farm expenditures: livestock & poultry purchased, $",DS_9,LIVSTOCK,LIVSTK00,FEEDEXP,POUPRVAL,POULTVAL
+"Specified farm expenditures: livestock & poultry purchased, $",DS_10,VAR26,VAR104,VAR22,VAR139,VAR142
+"Specified farm expenditures: livestock & poultry purchased, $",DS_11,VAR26,VAR22,VAR24,VAR25,VAR103
+"Specified farm expenditures: livestock & poultry purchased, $",DS_12,VAR178,VAR130,VAR180,VAR182,VAR184
+"Specified farm expenditures: livestock & poultry purchased, $",DS_13,VAR998,VAR1005,VAR1006,VAR1007,VAR1012
+"Specified farm expenditures: livestock & poultry purchased, $",DS_14,VAR1560,VAR1552,VAR1553,VAR1556,VAR1558
+"Specified farm expenditures: livestock & poultry purchased, $",DS_15,VAR20,VAR344,VAR26,VAR27,VAR21
+"Specified farm expenditures: livestock & poultry purchased, $",DS_16,VAR568,VAR570,VAR574,VAR577,VAR1566
+"Specified farm expenditures: livestock & poultry purchased, $",DS_17,VAR2046,VAR2234,VAR2050,VAR2259,VAR2021
+"Specified farm expenditures: livestock & poultry purchased, $",DS_18,VAR2046,VAR2234,VAR568,VAR2050,VAR2259
+"Specified farm expenditures: livestock & poultry purchased, $",DS_19,VAR2609,VAR2613,VAR2605,VAR2617,VAR2514
+"Specified farm expenditures: livestock & poultry purchased, $",DS_20,VAR550,VAR524,VAR456,VAR548,VAR52
+"Specified farm expenditures: livestock & poultry purchased, $",DS_21,VAR289,VAR287,VAR288,VAR286,VAR291
+"Specified farm expenditures: livestock & poultry purchased, $",DS_22,ITEM062,ITEM063,ITEM068,ITEM740,ITEM741
+"Specified farm expenditures: livestock & poultry purchased, $",DS_23,VAR426,VAR326,VAR328,VAR424,VAR233
+"Specified farm expenditures: livestock & poultry purchased, $",DS_24,I,II,STATE,COUNTY,NAME
+"Specified farm expenditures: livestock & poultry purchased, $",DS_25,VAR319,VAR318,VAR309,VAR311,VAR323
+"Specified farm expenditures: livestock & poultry purchased, $",DS_26,ITEM062,ITEM063,ITEM068,ITEM740,ITEM741
+"Specified farm expenditures: livestock & poultry purchased, $",DS_27,VAR688,VAR690,VAR687,VAR689,VAR697
+"Specified farm expenditures: livestock & poultry purchased, $",DS_28,ITEM062,ITEM063,ITEM068,ITEM740,ITEM741
+"Specified farm expenditures: livestock & poultry purchased, $",DS_29,VAR426,VAR326,VAR328,VAR424,VAR233
+"Specified farm expenditures: livestock & poultry purchased, $",DS_30,VAR646,VAR655,VAR648,VAR653,VAR244
+"Specified farm expenditures: livestock & poultry purchased, $",DS_31,ITEM062,ITEM063,ITEM068,ITEM740,ITEM741
+"Specified farm expenditures: livestock & poultry purchased, $",DS_32,VAR426,VAR326,VAR328,VAR424,VAR233
+"Specified farm expenditures: livestock & poultry purchased, $",DS_33,ITEM05012,ITEM05013,ITEM05014,ITEM05015,ITEM05024
+"Specified farm expenditures: livestock & poultry purchased, $",DS_34,ITEM05012,ITEM05013,ITEM05014,ITEM05015,ITEM05024
+"Specified farm expenditures: livestock & poultry purchased, $",DS_35,ITEM062,ITEM063,ITEM068,ITEM740,ITEM741
+"Specified farm expenditures: livestock & poultry purchased, $",DS_36,ITEM05012,ITEM05013,ITEM05014,ITEM05015,ITEM05024
+"Specified farm expenditures: livestock & poultry purchased, $",DS_37,ITEM05012,ITEM05013,ITEM05014,ITEM05015,ITEM05024
+"Specified farm expenditures: livestock & poultry purchased, $",DS_38,ITEM062,ITEM063,ITEM068,ITEM740,ITEM741
+"Specified farm expenditures: livestock & poultry purchased, $",DS_39,ITEM03004,ITEM03005,ITEM16131,ITEM03006,ITEM03007
+"Specified farm expenditures: livestock & poultry purchased, $",DS_40,ITEM03004,ITEM03005,ITEM16131,ITEM03006,ITEM03007
+"Specified farm expenditures: livestock & poultry purchased, $",DS_41,ITEM03004,ITEM03005,ITEM16131,ITEM03006,ITEM03007
+"Specified farm expenditures: livestock & poultry purchased, $",DS_42,ITEM030004,ITEM030005,ITEM120045,ITEM020060,ITEM020061
+"Specified farm expenditures: livestock & poultry purchased, $",DS_43,ITEM12060,ITEM12061,ITEM03004,ITEM03005,ITEM12062
+"Specified farm expenditures: livestock & poultry purchased, $",DS_44,ITEM03027,ITEM03028,ITEM03029,ITEM03030,ITEM03019
+"Specified farm expenditures: livestock & poultry purchased, $",DS_45,FILE,DC,STATE,COUNTY,NAME
+"Specified farm expenditures: livestock & poultry purchased, $",DS_46,STATEICP,COUNTYICP,NAME,LEVEL,STATEFIP
+"Specified farm expenditures: seeds, bulbs, plants, & trees purchased, $",DS_1,STATE,COUNTY,NAME,FAVAL850,FAVAL860
+"Specified farm expenditures: seeds, bulbs, plants, & trees purchased, $",DS_2,FILE,MD,IA,STATE,COUNTY
+"Specified farm expenditures: seeds, bulbs, plants, & trees purchased, $",DS_3,GRASSEED,FILE,MD,IA,STATE
+"Specified farm expenditures: seeds, bulbs, plants, & trees purchased, $",DS_4,GRASSEED,FILE,MD,IA,STATE
+"Specified farm expenditures: seeds, bulbs, plants, & trees purchased, $",DS_5,EQUIPVAL,FARMVAL,FARMOUT,LIVSTOCK,FILE
+"Specified farm expenditures: seeds, bulbs, plants, & trees purchased, $",DS_6,EQUIPVAL,LIVSTOCK,FARMFERT,FARMOUT,FARMVAL
+"Specified farm expenditures: seeds, bulbs, plants, & trees purchased, $",DS_7,FARMOWN,EQUIPVAL,LIVSTOCK,FARMFERT,FARMRENT
+"Specified farm expenditures: seeds, bulbs, plants, & trees purchased, $",DS_8,FARMBUI,FARMEQUI,LIVSTOCK,FARMSIZE,APPLET
+"Specified farm expenditures: seeds, bulbs, plants, & trees purchased, $",DS_9,FEEDEXP,TFRUITTR,OTHGRVAL,FARMBUI,FARBUI00
+"Specified farm expenditures: seeds, bulbs, plants, & trees purchased, $",DS_10,VAR140,VAR139,VAR142,VAR218,VAR312
+"Specified farm expenditures: seeds, bulbs, plants, & trees purchased, $",DS_11,VAR218,VAR24,VAR25,VAR26,VAR249
+"Specified farm expenditures: seeds, bulbs, plants, & trees purchased, $",DS_12,VAR178,VAR180,VAR182,VAR184,VAR125
+"Specified farm expenditures: seeds, bulbs, plants, & trees purchased, $",DS_13,VAR921,VAR998,VAR1005,VAR1006,VAR1007
+"Specified farm expenditures: seeds, bulbs, plants, & trees purchased, $",DS_14,VAR1560,VAR1552,VAR1553,VAR1556,VAR1558
+"Specified farm expenditures: seeds, bulbs, plants, & trees purchased, $",DS_15,VAR20,VAR344,VAR26,VAR27,VAR21
+"Specified farm expenditures: seeds, bulbs, plants, & trees purchased, $",DS_16,VAR890,VAR888,VAR889,VAR570,VAR574
+"Specified farm expenditures: seeds, bulbs, plants, & trees purchased, $",DS_17,VAR2046,VAR2081,VAR2090,VAR2205,VAR2206
+"Specified farm expenditures: seeds, bulbs, plants, & trees purchased, $",DS_18,VAR890,VAR2046,VAR888,VAR889,VAR570
+"Specified farm expenditures: seeds, bulbs, plants, & trees purchased, $",DS_19,VAR2797,VAR2609,VAR2613,VAR2801,VAR2605
+"Specified farm expenditures: seeds, bulbs, plants, & trees purchased, $",DS_20,VAR532,VAR126,VAR433,VAR554,VAR436
+"Specified farm expenditures: seeds, bulbs, plants, & trees purchased, $",DS_21,VAR291,VAR290,VAR1702,VAR1703,VAR289
+"Specified farm expenditures: seeds, bulbs, plants, & trees purchased, $",DS_22,ITEM056,ITEM071,ITEM848,ITEM053,ITEM054
+"Specified farm expenditures: seeds, bulbs, plants, & trees purchased, $",DS_23,VAR340,VAR339,VAR428,VAR334,VAR417
+"Specified farm expenditures: seeds, bulbs, plants, & trees purchased, $",DS_24,I,II,STATE,COUNTY,NAME
+"Specified farm expenditures: seeds, bulbs, plants, & trees purchased, $",DS_25,VAR309,VAR311,VAR323,VAR319,VAR328
+"Specified farm expenditures: seeds, bulbs, plants, & trees purchased, $",DS_26,ITEM056,ITEM071,ITEM848,ITEM053,ITEM054
+"Specified farm expenditures: seeds, bulbs, plants, & trees purchased, $",DS_27,VAR706,VAR705,VAR339,VAR697,VAR333
+"Specified farm expenditures: seeds, bulbs, plants, & trees purchased, $",DS_28,ITEM056,ITEM071,ITEM848,ITEM053,ITEM054
+"Specified farm expenditures: seeds, bulbs, plants, & trees purchased, $",DS_29,VAR340,VAR339,VAR428,VAR334,VAR417
+"Specified farm expenditures: seeds, bulbs, plants, & trees purchased, $",DS_30,VAR250,VAR249,VAR661,VAR244,VAR660
+"Specified farm expenditures: seeds, bulbs, plants, & trees purchased, $",DS_31,ITEM071,ITEM056,ITEM848,ITEM030,ITEM053
+"Specified farm expenditures: seeds, bulbs, plants, & trees purchased, $",DS_32,VAR340,VAR339,VAR428,VAR334,VAR417
+"Specified farm expenditures: seeds, bulbs, plants, & trees purchased, $",DS_33,ITEM05026,ITEM05027,ITEM05012,ITEM05013,ITEM01007
+"Specified farm expenditures: seeds, bulbs, plants, & trees purchased, $",DS_34,ITEM05026,ITEM05027,ITEM05012,ITEM05013,ITEM01007
+"Specified farm expenditures: seeds, bulbs, plants, & trees purchased, $",DS_35,ITEM071,ITEM056,ITEM848,ITEM030,ITEM053
+"Specified farm expenditures: seeds, bulbs, plants, & trees purchased, $",DS_36,ITEM05026,ITEM05027,ITEM05012,ITEM05013,ITEM01007
+"Specified farm expenditures: seeds, bulbs, plants, & trees purchased, $",DS_37,ITEM05026,ITEM05027,ITEM05012,ITEM05013,ITEM01007
+"Specified farm expenditures: seeds, bulbs, plants, & trees purchased, $",DS_38,ITEM071,ITEM056,ITEM848,ITEM030,ITEM053
+"Specified farm expenditures: seeds, bulbs, plants, & trees purchased, $",DS_39,ITEM03010,ITEM03011,ITEM16137,ITEM16138,ITEM03004
+"Specified farm expenditures: seeds, bulbs, plants, & trees purchased, $",DS_40,ITEM03010,ITEM03011,ITEM16137,ITEM16138,ITEM03004
+"Specified farm expenditures: seeds, bulbs, plants, & trees purchased, $",DS_41,ITEM03010,ITEM03011,ITEM16137,ITEM16138,ITEM03004
+"Specified farm expenditures: seeds, bulbs, plants, & trees purchased, $",DS_42,ITEM030010,ITEM030011,ITEM120066,ITEM120067,ITEM010031
+"Specified farm expenditures: seeds, bulbs, plants, & trees purchased, $",DS_43,ITEM12066,ITEM12067,ITEM03010,ITEM03011,ITEM12011
+"Specified farm expenditures: seeds, bulbs, plants, & trees purchased, $",DS_44,ITEM03015,ITEM03016,ITEM03017,ITEM03018,ITEM03011
+"Specified farm expenditures: seeds, bulbs, plants, & trees purchased, $",DS_45,FILE,DC,STATE,COUNTY,NAME
+"Specified farm expenditures: seeds, bulbs, plants, & trees purchased, $",DS_46,STATEICP,COUNTYICP,NAME,LEVEL,STATEFIP
+"Specified farm expenditures: gasoline & other petroleum fuel & oil, $",DS_1,STATE,COUNTY,NAME,FAVAL850,FAVAL860
+"Specified farm expenditures: gasoline & other petroleum fuel & oil, $",DS_2,FILE,MD,IA,STATE,COUNTY
+"Specified farm expenditures: gasoline & other petroleum fuel & oil, $",DS_3,OTCATTLE,HEMPP3,FILE,MD,IA
+"Specified farm expenditures: gasoline & other petroleum fuel & oil, $",DS_4,OTCATTLE,HEMPP3,O,HEMPOTH,FILE
+"Specified farm expenditures: gasoline & other petroleum fuel & oil, $",DS_5,OTCATTLE,EQUIPVAL,FARMVAL,FARMOUT,LIVSTOCK
+"Specified farm expenditures: gasoline & other petroleum fuel & oil, $",DS_6,EQUIPVAL,LIVSTOCK,FARMOUT,OTCATTLE,OTHPOUL
+"Specified farm expenditures: gasoline & other petroleum fuel & oil, $",DS_7,OTCATTLE,FARMOWN,EQUIPVAL,LIVSTOCK,FARMRENT
+"Specified farm expenditures: gasoline & other petroleum fuel & oil, $",DS_8,FARMBUI,FARMEQUI,LIVSTOCK,FARMSIZE,PMINTOIL
+"Specified farm expenditures: gasoline & other petroleum fuel & oil, $",DS_9,FEEDEXP,OTHGRVAL,OTCROPVA,OTCOWS,FARMBUI
+"Specified farm expenditures: gasoline & other petroleum fuel & oil, $",DS_10,VAR140,VAR144,VAR139,VAR142,VAR243
+"Specified farm expenditures: gasoline & other petroleum fuel & oil, $",DS_11,VAR243,VAR244,VAR24,VAR25,VAR26
+"Specified farm expenditures: gasoline & other petroleum fuel & oil, $",DS_12,VAR178,VAR180,VAR154,VAR164,VAR182
+"Specified farm expenditures: gasoline & other petroleum fuel & oil, $",DS_13,VAR1007,VAR1012,VAR474,VAR915,VAR133
+"Specified farm expenditures: gasoline & other petroleum fuel & oil, $",DS_14,VAR1797,VAR1911,VAR2010,VAR1560,VAR1713
+"Specified farm expenditures: gasoline & other petroleum fuel & oil, $",DS_15,VAR20,VAR57,VAR62,VAR361,VAR87
+"Specified farm expenditures: gasoline & other petroleum fuel & oil, $",DS_16,VAR572,VAR571,VAR570,VAR574,VAR577
+"Specified farm expenditures: gasoline & other petroleum fuel & oil, $",DS_17,VAR2079,VAR2081,VAR2090,VAR2186,VAR2205
+"Specified farm expenditures: gasoline & other petroleum fuel & oil, $",DS_18,VAR572,VAR571,VAR570,VAR574,VAR577
+"Specified farm expenditures: gasoline & other petroleum fuel & oil, $",DS_19,VAR2609,VAR2613,VAR2605,VAR2617,VAR2514
+"Specified farm expenditures: gasoline & other petroleum fuel & oil, $",DS_20,VAR532,VAR542,VAR126,VAR433,VAR554
+"Specified farm expenditures: gasoline & other petroleum fuel & oil, $",DS_21,VAR293,VAR292,VAR1705,VAR1704,VAR297
+"Specified farm expenditures: gasoline & other petroleum fuel & oil, $",DS_22,ITEM057,ITEM066,ITEM068,ITEM071,ITEM963
+"Specified farm expenditures: gasoline & other petroleum fuel & oil, $",DS_23,VAR338,VAR422,VAR424,VAR335,VAR428
+"Specified farm expenditures: gasoline & other petroleum fuel & oil, $",DS_24,I,II,STATE,COUNTY,NAME
+"Specified farm expenditures: gasoline & other petroleum fuel & oil, $",DS_25,VAR321,VAR320,VAR309,VAR311,VAR323
+"Specified farm expenditures: gasoline & other petroleum fuel & oil, $",DS_26,ITEM057,ITEM066,ITEM068,ITEM071,ITEM963
+"Specified farm expenditures: gasoline & other petroleum fuel & oil, $",DS_27,VAR703,VAR704,VAR338,VAR697,VAR333
+"Specified farm expenditures: gasoline & other petroleum fuel & oil, $",DS_28,ITEM057,ITEM066,ITEM068,ITEM071,ITEM963
+"Specified farm expenditures: gasoline & other petroleum fuel & oil, $",DS_29,VAR338,VAR422,VAR424,VAR335,VAR428
+"Specified farm expenditures: gasoline & other petroleum fuel & oil, $",DS_30,VAR664,VAR665,VAR253,VAR254,VAR673
+"Specified farm expenditures: gasoline & other petroleum fuel & oil, $",DS_31,ITEM057,ITEM066,ITEM068,ITEM069,ITEM071
+"Specified farm expenditures: gasoline & other petroleum fuel & oil, $",DS_32,VAR338,VAR422,VAR424,VAR335,VAR428
+"Specified farm expenditures: gasoline & other petroleum fuel & oil, $",DS_33,ITEM05036,ITEM05037,ITEM05038,ITEM05039,ITEM05042
+"Specified farm expenditures: gasoline & other petroleum fuel & oil, $",DS_34,ITEM05036,ITEM05037,ITEM05038,ITEM05039,ITEM05042
+"Specified farm expenditures: gasoline & other petroleum fuel & oil, $",DS_35,ITEM057,ITEM066,ITEM068,ITEM069,ITEM071
+"Specified farm expenditures: gasoline & other petroleum fuel & oil, $",DS_36,ITEM05036,ITEM05037,ITEM05038,ITEM05039,ITEM05042
+"Specified farm expenditures: gasoline & other petroleum fuel & oil, $",DS_37,ITEM05036,ITEM05037,ITEM05038,ITEM05039,ITEM05042
+"Specified farm expenditures: gasoline & other petroleum fuel & oil, $",DS_38,ITEM057,ITEM066,ITEM068,ITEM069,ITEM071
+"Specified farm expenditures: gasoline & other petroleum fuel & oil, $",DS_39,ITEM03016,ITEM03017,ITEM03046,ITEM03047,ITEM16161
+"Specified farm expenditures: gasoline & other petroleum fuel & oil, $",DS_40,ITEM03016,ITEM03017,ITEM03046,ITEM03047,ITEM16161
+"Specified farm expenditures: gasoline & other petroleum fuel & oil, $",DS_41,ITEM03016,ITEM03017,ITEM03046,ITEM03047,ITEM16161
+"Specified farm expenditures: gasoline & other petroleum fuel & oil, $",DS_42,ITEM010031,ITEM020003,ITEM030003,ITEM030024,ITEM030025
+"Specified farm expenditures: gasoline & other petroleum fuel & oil, $",DS_43,ITEM03024,ITEM03025,ITEM04018,ITEM03020,ITEM03021
+"Specified farm expenditures: gasoline & other petroleum fuel & oil, $",DS_44,ITEM03027,ITEM03028,ITEM03029,ITEM03030,ITEM03035
+"Specified farm expenditures: gasoline & other petroleum fuel & oil, $",DS_45,FILE,DC,STATE,COUNTY,NAME
+"Specified farm expenditures: gasoline & other petroleum fuel & oil, $",DS_46,STATEICP,COUNTYICP,NAME,LEVEL,STATEFIP
+"Specified farm expenditures: tractor repairs, $",DS_1,STATE,COUNTY,NAME,FAVAL850,FAVAL860
+"Specified farm expenditures: tractor repairs, $",DS_2,FILE,MD,IA,STATE,COUNTY
+"Specified farm expenditures: tractor repairs, $",DS_3,FILE,MD,IA,STATE,COUNTY
+"Specified farm expenditures: tractor repairs, $",DS_4,FILE,MD,IA,STATE,COUNTY
+"Specified farm expenditures: tractor repairs, $",DS_5,EQUIPVAL,FARMVAL,FARMOUT,LIVSTOCK,FILE
+"Specified farm expenditures: tractor repairs, $",DS_6,EQUIPVAL,LIVSTOCK,FARMOUT,FARMVAL,FARMSIZE
+"Specified farm expenditures: tractor repairs, $",DS_7,FARMOWN,EQUIPVAL,LIVSTOCK,FARMRENT,FARMSIZE
+"Specified farm expenditures: tractor repairs, $",DS_8,FARMBUI,FARMEQUI,LIVSTOCK,FARMSIZE,TFARMHOM
+"Specified farm expenditures: tractor repairs, $",DS_9,FEEDEXP,FARMBUI,FARBUI00,FARMEQUI,FARMEQ00
+"Specified farm expenditures: tractor repairs, $",DS_10,VAR139,VAR142,VAR312,VAR314,VAR24
+"Specified farm expenditures: tractor repairs, $",DS_11,VAR24,VAR25,VAR26,VAR49,VAR439
+"Specified farm expenditures: tractor repairs, $",DS_12,VAR178,VAR180,VAR182,VAR184,VAR125
+"Specified farm expenditures: tractor repairs, $",DS_13,VAR1007,VAR1012,VAR1009,VAR1010,VAR1011
+"Specified farm expenditures: tractor repairs, $",DS_14,VAR1560,VAR1552,VAR1553,VAR1556,VAR1558
+"Specified farm expenditures: tractor repairs, $",DS_15,VAR20,VAR344,VAR26,VAR27,VAR21
+"Specified farm expenditures: tractor repairs, $",DS_16,VAR570,VAR574,VAR577,VAR568,VAR572
+"Specified farm expenditures: tractor repairs, $",DS_17,VAR2205,VAR2206,VAR2241,VAR2242,VAR2042
+"Specified farm expenditures: tractor repairs, $",DS_18,VAR570,VAR574,VAR577,VAR2205,VAR2206
+"Specified farm expenditures: tractor repairs, $",DS_19,VAR2609,VAR2613,VAR2605,VAR2617,VAR2514
+"Specified farm expenditures: tractor repairs, $",DS_20,VAR532,VAR126,VAR433,VAR554,VAR436
+"Specified farm expenditures: tractor repairs, $",DS_21,VAR295,VAR294,VAR297,VAR283,VAR285
+"Specified farm expenditures: tractor repairs, $",DS_22,ITEM071,ITEM848,ITEM053,ITEM054,ITEM030
+"Specified farm expenditures: tractor repairs, $",DS_23,VAR428,VAR334,VAR417,VAR426,VAR338
+"Specified farm expenditures: tractor repairs, $",DS_24,I,II,STATE,COUNTY,NAME
+"Specified farm expenditures: tractor repairs, $",DS_25,VAR309,VAR311,VAR323,VAR319,VAR328
+"Specified farm expenditures: tractor repairs, $",DS_26,ITEM071,ITEM848,ITEM053,ITEM054,ITEM030
+"Specified farm expenditures: tractor repairs, $",DS_27,VAR697,VAR333,VAR688,VAR690,VAR692
+"Specified farm expenditures: tractor repairs, $",DS_28,ITEM071,ITEM848,ITEM053,ITEM054,ITEM030
+"Specified farm expenditures: tractor repairs, $",DS_29,VAR428,VAR334,VAR417,VAR426,VAR338
+"Specified farm expenditures: tractor repairs, $",DS_30,VAR244,VAR667,VAR669,VAR673,VAR671
+"Specified farm expenditures: tractor repairs, $",DS_31,ITEM071,ITEM848,ITEM030,ITEM053,ITEM054
+"Specified farm expenditures: tractor repairs, $",DS_32,VAR428,VAR334,VAR417,VAR426,VAR338
+"Specified farm expenditures: tractor repairs, $",DS_33,ITEM01007,ITEM03013,ITEM06003,ITEM01003,ITEM02001
+"Specified farm expenditures: tractor repairs, $",DS_34,ITEM01007,ITEM03013,ITEM06003,ITEM01003,ITEM02001
+"Specified farm expenditures: tractor repairs, $",DS_35,ITEM071,ITEM848,ITEM030,ITEM053,ITEM054
+"Specified farm expenditures: tractor repairs, $",DS_36,ITEM01007,ITEM03013,ITEM06003,ITEM01003,ITEM02001
+"Specified farm expenditures: tractor repairs, $",DS_37,ITEM01007,ITEM03013,ITEM06003,ITEM01003,ITEM02001
+"Specified farm expenditures: tractor repairs, $",DS_38,ITEM071,ITEM848,ITEM030,ITEM053,ITEM054
+"Specified farm expenditures: tractor repairs, $",DS_39,ITEM16013,ITEM16004,ITEM01006,ITEM01003,ITEM05003
+"Specified farm expenditures: tractor repairs, $",DS_40,ITEM16013,ITEM16004,ITEM01006,ITEM01003,ITEM05003
+"Specified farm expenditures: tractor repairs, $",DS_41,ITEM16013,ITEM16004,ITEM01006,ITEM01003,ITEM05003
+"Specified farm expenditures: tractor repairs, $",DS_42,ITEM010031,ITEM020003,ITEM030003,ITEM120097,ITEM010034
+"Specified farm expenditures: tractor repairs, $",DS_43,ITEM12011,ITEM01032,ITEM03003,ITEM12103,ITEM01007
+"Specified farm expenditures: tractor repairs, $",DS_44,ITEM03043,ITEM03044,ITEM03045,ITEM03046,ITEM07002
+"Specified farm expenditures: tractor repairs, $",DS_45,FILE,DC,STATE,COUNTY,NAME
+"Specified farm expenditures: tractor repairs, $",DS_46,STATEICP,COUNTYICP,NAME,LEVEL,STATEFIP
+"Specified farm expenditures: other farm machinery repairs, $",DS_1,STATE,COUNTY,NAME,FAVAL850,FAVAL860
+"Specified farm expenditures: other farm machinery repairs, $",DS_2,FILE,MD,IA,STATE,COUNTY
+"Specified farm expenditures: other farm machinery repairs, $",DS_3,OTCATTLE,HEMPP3,FILE,MD,IA
+"Specified farm expenditures: other farm machinery repairs, $",DS_4,OTCATTLE,HEMPP3,O,HEMPOTH,FILE
+"Specified farm expenditures: other farm machinery repairs, $",DS_5,OTCATTLE,EQUIPVAL,FARMVAL,FARMOUT,LIVSTOCK
+"Specified farm expenditures: other farm machinery repairs, $",DS_6,EQUIPVAL,LIVSTOCK,FARMOUT,OTCATTLE,OTHPOUL
+"Specified farm expenditures: other farm machinery repairs, $",DS_7,OTCATTLE,FARMOWN,EQUIPVAL,LIVSTOCK,FARMRENT
+"Specified farm expenditures: other farm machinery repairs, $",DS_8,FARMBUI,FARMEQUI,LIVSTOCK,FARMSIZE,TFARMHOM
+"Specified farm expenditures: other farm machinery repairs, $",DS_9,FEEDEXP,OTHGRVAL,OTCROPVA,OTCOWS,FARMBUI
+"Specified farm expenditures: other farm machinery repairs, $",DS_10,VAR140,VAR144,VAR139,VAR142,VAR243
+"Specified farm expenditures: other farm machinery repairs, $",DS_11,VAR243,VAR244,VAR24,VAR25,VAR26
+"Specified farm expenditures: other farm machinery repairs, $",DS_12,VAR164,VAR178,VAR129,VAR160,VAR163
+"Specified farm expenditures: other farm machinery repairs, $",DS_13,VAR139,VAR1010,VAR1011,VAR170,VAR171
+"Specified farm expenditures: other farm machinery repairs, $",DS_14,VAR1560,VAR1561,VAR1911,VAR2010,VAR1713
+"Specified farm expenditures: other farm machinery repairs, $",DS_15,VAR20,VAR57,VAR62,VAR361,VAR87
+"Specified farm expenditures: other farm machinery repairs, $",DS_16,VAR570,VAR93,VAR109,VAR110,VAR108
+"Specified farm expenditures: other farm machinery repairs, $",DS_17,VAR2079,VAR2081,VAR2090,VAR2186,VAR2205
+"Specified farm expenditures: other farm machinery repairs, $",DS_18,VAR570,VAR93,VAR109,VAR110,VAR108
+"Specified farm expenditures: other farm machinery repairs, $",DS_19,VAR2617,VAR2616,VAR2620,VAR2609,VAR2613
+"Specified farm expenditures: other farm machinery repairs, $",DS_20,VAR43,VAR44,VAR532,VAR542,VAR126
+"Specified farm expenditures: other farm machinery repairs, $",DS_21,VAR297,VAR296,VAR295,VAR293,VAR283
+"Specified farm expenditures: other farm machinery repairs, $",DS_22,ITEM057,ITEM066,ITEM068,ITEM071,ITEM963
+"Specified farm expenditures: other farm machinery repairs, $",DS_23,VAR422,VAR424,VAR428,VAR334,VAR417
+"Specified farm expenditures: other farm machinery repairs, $",DS_24,I,II,STATE,COUNTY,NAME
+"Specified farm expenditures: other farm machinery repairs, $",DS_25,VAR321,VAR309,VAR311,VAR323,VAR319
+"Specified farm expenditures: other farm machinery repairs, $",DS_26,ITEM057,ITEM066,ITEM068,ITEM071,ITEM963
+"Specified farm expenditures: other farm machinery repairs, $",DS_27,VAR697,VAR333,VAR688,VAR690,VAR692
+"Specified farm expenditures: other farm machinery repairs, $",DS_28,ITEM057,ITEM066,ITEM068,ITEM071,ITEM963
+"Specified farm expenditures: other farm machinery repairs, $",DS_29,VAR422,VAR424,VAR428,VAR334,VAR417
+"Specified farm expenditures: other farm machinery repairs, $",DS_30,VAR244,VAR673,VAR667,VAR669,VAR672
+"Specified farm expenditures: other farm machinery repairs, $",DS_31,ITEM057,ITEM066,ITEM068,ITEM069,ITEM071
+"Specified farm expenditures: other farm machinery repairs, $",DS_32,VAR422,VAR424,VAR428,VAR334,VAR417
+"Specified farm expenditures: other farm machinery repairs, $",DS_33,ITEM06003,ITEM05050,ITEM05051,ITEM02014,ITEM05030
+"Specified farm expenditures: other farm machinery repairs, $",DS_34,ITEM06003,ITEM05050,ITEM05051,ITEM02014,ITEM05030
+"Specified farm expenditures: other farm machinery repairs, $",DS_35,ITEM057,ITEM066,ITEM068,ITEM069,ITEM071
+"Specified farm expenditures: other farm machinery repairs, $",DS_36,ITEM06003,ITEM05050,ITEM05051,ITEM02014,ITEM05030
+"Specified farm expenditures: other farm machinery repairs, $",DS_37,ITEM06003,ITEM05050,ITEM05051,ITEM02014,ITEM05030
+"Specified farm expenditures: other farm machinery repairs, $",DS_38,ITEM057,ITEM066,ITEM068,ITEM069,ITEM071
+"Specified farm expenditures: other farm machinery repairs, $",DS_39,ITEM01006,ITEM03046,ITEM03047,ITEM16161,ITEM16162
+"Specified farm expenditures: other farm machinery repairs, $",DS_40,ITEM01006,ITEM03046,ITEM03047,ITEM16161,ITEM16162
+"Specified farm expenditures: other farm machinery repairs, $",DS_41,ITEM01006,ITEM03046,ITEM03047,ITEM16161,ITEM16162
+"Specified farm expenditures: other farm machinery repairs, $",DS_42,ITEM010031,ITEM020003,ITEM030003,ITEM030046,ITEM030047
+"Specified farm expenditures: other farm machinery repairs, $",DS_43,ITEM04018,ITEM09003,ITEM03046,ITEM03047,ITEM12011
+"Specified farm expenditures: other farm machinery repairs, $",DS_44,ITEM03027,ITEM03028,ITEM03029,ITEM03030,ITEM03063
+"Specified farm expenditures: other farm machinery repairs, $",DS_45,FILE,DC,STATE,COUNTY,NAME
+"Specified farm expenditures: other farm machinery repairs, $",DS_46,STATEICP,COUNTYICP,NAME,LEVEL,STATEFIP
